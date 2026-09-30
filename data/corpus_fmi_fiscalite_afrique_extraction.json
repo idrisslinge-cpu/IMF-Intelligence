@@ -1,0 +1,4249 @@
+{
+  "metadata": {
+    "title": "Corpus FMI — fiscalité et mobilisation des recettes en Afrique",
+    "version": "1.0.0",
+    "generated_on": "2026-09-30",
+    "cutoff_date": "2026-09-30",
+    "language": "fr",
+    "scope": "69 publications uniques du FMI, 22 constats quantitatifs normalisés, 15 recommandations et contexte comparatif OECD/AUC/ATAF.",
+    "important_warning_fr": "Les écarts fiscaux, potentiels économétriques, coûts de dépenses fiscales, pertes liées au transfert de bénéfices et gains historiques ne sont pas directement comparables et ne doivent pas être additionnés."
+  },
+  "methodology": {
+    "source_priority": [
+      "PDF IMF avec page vérifiée",
+      "résumé officiel IMF",
+      "description du corpus fourni",
+      "compilation locale OECD/AUC/ATAF"
+    ],
+    "verification_levels": {
+      "pdf_page_verified": "Valeur contrôlée dans le PDF officiel avec repère de page.",
+      "official_publication_summary": "Valeur ou recommandation contrôlée dans le résumé de la page officielle IMF.",
+      "corpus_description_only": "Élément repris du corpus fourni; le PDF doit encore être contrôlé page par page avant citation finale.",
+      "local_secondary_compilation": "Valeur issue d’un fichier local compilé à partir d’une source primaire indiquée."
+    },
+    "normalization_rules": [
+      "Valeurs en pourcentage du PIB séparées des variations en points de PIB.",
+      "Fourchettes conservées sous forme de tableaux [minimum, maximum].",
+      "Valeurs manquantes représentées par null; aucune imputation.",
+      "Les doublons thématiques pointant vers la même URL sont fusionnés dans le registre documentaire."
+    ]
+  },
+  "source_inventory": {
+    "local_pdf_count": 0,
+    "official_links_count": 69,
+    "local_sources": [
+      {
+        "file": "/Users/agenceecofin/.codex/attachments/d831bf5c-d270-4794-9e4f-941872e26d23/pasted-text.txt",
+        "sha256": "9d77a3848f995003bfbbe99edcd86af2bc08b7c9d9514c1f1ecb47fc0e10123d",
+        "role": "corpus maître fourni"
+      },
+      {
+        "file": "/Users/agenceecofin/Downloads/IMF April_2026/IMF Septembre/OECD_Africa_Tax_Revenue_Intelligence_2025.xlsx",
+        "sha256": "54948edd2c53e53f0ad8223b45ce8e170b039d1399901cc90a5440b20758ae22",
+        "role": "contexte statistique OECD/AUC/ATAF"
+      },
+      {
+        "file": "/Users/agenceecofin/Downloads/IMF April_2026/IMF Septembre/Rapport_OECD_FMI_Mobilisation_Recettes_Afrique_2026.docx",
+        "sha256": "82bd2e3afb14cdeff53c5ba25ae706c1ad964abaecbf3f9c9ea05eb235a94429",
+        "role": "rapport local de synthèse; utilisé comme contrôle de cohérence"
+      }
+    ],
+    "download_note_fr": "Les PDF n’étaient pas présents dans le dossier au moment de l’extraction. Le registre conserve les liens officiels; seules les valeurs signalées pdf_page_verified ont été contrôlées dans les PDF officiels accessibles en ligne."
+  },
+  "documents": [
+    {
+      "document_id": "DOC001",
+      "title": "Taxation in Sub-Saharan Africa",
+      "catalogue_label": "1981 — Taxation in Sub-Saharan Africa",
+      "publication_year": 1981,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/occasional-papers/issues/2016/12/30/taxation-in-sub-saharan-africa-14973",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Un des textes fondateurs du FMI sur la fiscalité africaine. Structure des systèmes fiscaux, taxation directe et indirecte, administration, incitations fiscales. Intéressant surtout comme point zéro pour mesurer ce qui a changé — ou pas — quarante ans plus tard.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/occasional-papers/issues/2016/12/30/taxation-in-sub-saharan-africa-14973",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC002",
+      "title": "Presumptive Taxation in Sub-Saharan Africa: Experiences and Prospects",
+      "catalogue_label": "1996 — Presumptive Taxation in Sub-Saharan Africa: Experiences and Prospects",
+      "publication_year": 1996,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "informalite"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/30/presumptive-taxation-in-sub-saharan-africa-experiences-and-prospects-1993",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très utile sur le problème toujours actuel de l’informalité. Examine les dispositifs permettant d’imposer des contribuables dont les revenus réels sont difficiles à observer : forfaits, retenues, taxation à l’importation, etc.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/30/presumptive-taxation-in-sub-saharan-africa-experiences-and-prospects-1993",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC003",
+      "title": "Tax Revenue in Sub-Saharan Africa: Effects of Economic Policies and Corruption",
+      "catalogue_label": "1998 — Tax Revenue in Sub-Saharan Africa: Effects of Economic Policies and Corruption",
+      "publication_year": 1998,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "gouvernance_contrat_social",
+        "impot_personnes_physiques"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/30/tax-revenue-in-sub-saharan-africa-effects-of-economic-policies-and-corruption-2754",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Étudie 39 pays et lie la capacité de collecter l’impôt à des variables comme inflation, réformes structurelles, capital humain et corruption. Important parce que le FMI commence ici à traiter la fiscalité comme un problème institutionnel et non exclusivement comme un problème de taux.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/30/tax-revenue-in-sub-saharan-africa-effects-of-economic-policies-and-corruption-2754",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC004",
+      "title": "Diamond Smuggling and Taxation in Sub-Saharan Africa",
+      "catalogue_label": "2003 — Diamond Smuggling and Taxation in Sub-Saharan Africa",
+      "publication_year": 2003,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/30/diamond-smuggling-and-taxation-in-sub-saharan-africa-16812",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Papier très intéressant pour comprendre la frontière entre fiscalité et flux illicites. Il montre que des taxes trop mal calibrées peuvent encourager la contrebande et examine comment augmenter les recettes sans déplacer les transactions hors des circuits officiels.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire",
+        "Extractif et minier — travaux transversaux"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md",
+        "06_Extractif_et_minier_transversal/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/30/diamond-smuggling-and-taxation-in-sub-saharan-africa-16812",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC005",
+      "title": "Selected Issues and Statistical Appendix",
+      "catalogue_label": "2005 — Selected Issues and Statistical Appendix",
+      "publication_year": 2005,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/democratic-republic-of-the-congo-selected-issues-and-statistical-appendix-18631",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Contient déjà une analyse du secteur minier et de sa contribution fiscale. Très bon point de départ historique pour comparer l’ancien régime avec les réformes ultérieures.",
+      "catalogue_sections": [
+        "République démocratique du Congo"
+      ],
+      "catalogue_files": [
+        "07_RDC/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/democratic-republic-of-the-congo-selected-issues-and-statistical-appendix-18631",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC006",
+      "title": "Tax Incentives and Regional Coordination",
+      "catalogue_label": "Kenya, Ouganda, Tanzanie 2008 — Tax Incentives and Regional Coordination",
+      "publication_year": 2008,
+      "jurisdictions": [
+        "Kenya",
+        "Tanzania",
+        "Uganda"
+      ],
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/kenya-uganda-and-united-republic-of-tanzania-selected-issues-22457",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très important pour la concurrence fiscale intra-EAC. Analyse l’utilisation des incitations et la nécessité de coordonner les politiques pour éviter que les États ne se fassent concurrence en abandonnant des recettes.",
+      "catalogue_sections": [
+        "Afrique de l’Est"
+      ],
+      "catalogue_files": [
+        "05_Afrique_Est/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/kenya-uganda-and-united-republic-of-tanzania-selected-issues-22457",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC007",
+      "title": "Empirical Evidence on the Effects of Tax Incentives",
+      "catalogue_label": "2009 — Empirical Evidence on the Effects of Tax Incentives",
+      "publication_year": 2009,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/empirical-evidenceon-the-effects-of-tax-incentives-23053",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Important pour notre question des exonérations. Le papier étudie notamment des pays africains et montre les interactions concurrentielles entre États dans l’octroi des tax holidays. Il faut le lire avec le papier 2025 sur les dépenses fiscales.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/empirical-evidenceon-the-effects-of-tax-incentives-23053",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC008",
+      "title": "Revenue Mobilization in Sub-Saharan Africa: Challenges from Globalization",
+      "catalogue_label": "2009 — Revenue Mobilization in Sub-Saharan Africa: Challenges from Globalization",
+      "publication_year": 2009,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/revenue-mobilization-in-sub-saharan-africa-challenges-from-globalization-23124",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Un des documents essentiels. Il pose directement les deux risques de la mondialisation pour les recettes africaines : baisse des droits de douane et concurrence fiscale sur les bénéfices des sociétés. Il constate aussi la faiblesse persistante des recettes non liées aux ressources naturelles et souligne la nécessité d’une coopération régionale.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/revenue-mobilization-in-sub-saharan-africa-challenges-from-globalization-23124",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC009",
+      "title": "Mining Taxation: An Application to Mali",
+      "catalogue_label": "2010 — Mining Taxation: An Application to Mali",
+      "publication_year": 2010,
+      "jurisdictions": [
+        "Mali"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mining-taxation-an-application-to-mali-23859",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Utilise un modèle économique pour déterminer le partage optimal de la rente minière. Le papier estime notamment autour de 3,5 % un taux de royalty optimal dans le cadre modélisé.",
+      "catalogue_sections": [
+        "Mali — fiscalité minière"
+      ],
+      "catalogue_files": [
+        "08_Mali/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mining-taxation-an-application-to-mali-23859",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC010",
+      "title": "Revenue Administration Reforms in Anglophone Africa Since the Early 1990s",
+      "catalogue_label": "2011 — Revenue Administration Reforms in Anglophone Africa Since the Early 1990s",
+      "publication_year": 2011,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/revenue-administration-reforms-in-anglophone-africa-since-the-early-1990-s-25027",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Autorités fiscales autonomes, TVA, unités des grands contribuables, intégrité de l’administration et capacité institutionnelle. Très utile pour comparer Afrique anglophone et francophone.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/revenue-administration-reforms-in-anglophone-africa-since-the-early-1990-s-25027",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC011",
+      "title": "Revenue Mobilization in Developing Countries",
+      "catalogue_label": "2011 — Revenue Mobilization in Developing Countries",
+      "publication_year": 2011,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.elibrary.imf.org/view/journals/007/2011/055/article-A001-en.xml",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Texte doctrinal fondateur de la période moderne. Le FMI y formalise l’objectif de lever davantage de recettes tout en conciliant croissance, équité et gouvernance. Il couvre politique fiscale et administration.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.elibrary.imf.org/view/journals/007/2011/055/article-A001-en.xml",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC012",
+      "title": "Mobilizing Revenue in Sub-Saharan Africa: Empirical Norms and Key Determinants",
+      "catalogue_label": "2012 — Mobilizing Revenue in Sub-Saharan Africa: Empirical Norms and Key Determinants",
+      "publication_year": 2012,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mobilizing-revenue-in-sub-saharan-africa-empirical-norms-and-key-determinants-25882",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Autre papier central. Les épisodes de mobilisation observés donnent typiquement des gains d’environ 0,5 à 2 points de PIB à court/moyen terme, et de 2 à 3,5 points à plus long terme. Le maintien de ces gains est plus difficile dans les États fragiles.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mobilizing-revenue-in-sub-saharan-africa-empirical-norms-and-key-determinants-25882",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC013",
+      "title": "Taxation and Development: Again",
+      "catalogue_label": "2012 — Taxation and Development: Again",
+      "publication_year": 2012,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "informalite"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/taxation-and-development-again-26242",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Réflexion importante sur ce qui différencie réellement la fiscalité des pays en développement. Très utile pour éviter de réduire le diagnostic à l’informalité.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/taxation-and-development-again-26242",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC014",
+      "title": "Fiscal Monitor: Taxing Times",
+      "catalogue_label": "2013 — Fiscal Monitor: Taxing Times",
+      "publication_year": 2013,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "gouvernance_contrat_social"
+      ],
+      "official_url": "https://www.imf.org/en/publications/fm/issues/2016/12/31/taxing-times-40434",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Le grand Fiscal Monitor fiscal. Pose explicitement la question : peut-on taxer davantage, mieux et plus équitablement ? Le FMI juge le potentiel d’augmentation des recettes substantiel dans nombre d’économies émergentes et à faible revenu, mais identifie la conformité fiscale comme un obstacle majeur.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/fm/issues/2016/12/31/taxing-times-40434",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC015",
+      "title": "Natural Resource Management",
+      "catalogue_label": "2013 — Natural Resource Management",
+      "publication_year": 2013,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-continued-modernization-of-the-malian-tax-system-and-41097",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Fiscalité des ressources, contrats, clauses de stabilisation et cadre institutionnel. À lire pour comprendre comment les contrats peuvent neutraliser des modifications fiscales ultérieures.",
+      "catalogue_sections": [
+        "Mali — fiscalité minière"
+      ],
+      "catalogue_files": [
+        "08_Mali/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-continued-modernization-of-the-malian-tax-system-and-41097",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC016",
+      "title": "Tax Administration Reform in the Francophone Countries of Sub-Saharan Africa",
+      "catalogue_label": "2013 — Tax Administration Reform in the Francophone Countries of Sub-Saharan Africa",
+      "publication_year": 2013,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/tax-administration-reform-in-the-francophone-countries-of-sub-saharan-africa-40804",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "À lire absolument pour notre travail. Retrace les réformes depuis les années 1990 et montre leurs limites : gouvernance, ressources humaines, autonomie, grands contribuables, assistance technique et organisation des administrations fiscales.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2016/12/31/tax-administration-reform-in-the-francophone-countries-of-sub-saharan-africa-40804",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC017",
+      "title": "Spillovers in International Corporate Taxation",
+      "catalogue_label": "2014 — Spillovers in International Corporate Taxation",
+      "publication_year": 2014,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "fiscalite_internationale",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/spillovers-in-international-corporate-taxation-pp4873",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "À mettre au cœur de notre réflexion ONU/FMI. Le FMI reconnaît qu’une décision fiscale prise dans un pays affecte la base taxable des autres. Il dépasse donc le cadre purement domestique et traite les spillovers, le BEPS et les vulnérabilités des pays en développement.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/policy-papers/issues/2016/12/31/spillovers-in-international-corporate-taxation-pp4873",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC018",
+      "title": "United Republic of Tanzania: Selected Issues",
+      "catalogue_label": "Tanzanie 2014 — United Republic of Tanzania: Selected Issues",
+      "publication_year": 2014,
+      "jurisdictions": [
+        "Tanzania"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/united-republic-of-tanzania-selected-issues-41560",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Analyse l’impact budgétaire potentiel d’un développement gazier à grande échelle et simule les flux de recettes selon le régime pétrolier. Très utile pour comprendre l’approche FMI des futures rentes extractives.",
+      "catalogue_sections": [
+        "Autres dossiers extractifs africains"
+      ],
+      "catalogue_files": [
+        "09_Autres_dossiers_extractifs/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/united-republic-of-tanzania-selected-issues-41560",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC019",
+      "title": "Mining and Petroleum Taxation: Diagnostic Assessment",
+      "catalogue_label": "2015 — Mining and Petroleum Taxation: Diagnostic Assessment",
+      "publication_year": 2015,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-mining-and-petroleum-taxation-diagnostic-assessment-43475",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très riche. Le FMI demande plus de transparence des contrats et études de faisabilité, recommande des outils standardisés d’analyse économique et le ring-fencing des projets pour empêcher que les coûts d’un projet ne réduisent abusivement le bénéfice taxable d’un autre.",
+      "catalogue_sections": [
+        "Mali — fiscalité minière"
+      ],
+      "catalogue_files": [
+        "08_Mali/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-mining-and-petroleum-taxation-diagnostic-assessment-43475",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC020",
+      "title": "Selected Issues",
+      "catalogue_label": "2015 — Selected Issues",
+      "publication_year": 2015,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/democratic-republic-of-the-congo-selected-issues-43336",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Essentiel. Contient l’analyse de la fiscalité minière et le benchmarking du régime fiscal. C’est le document qui permet de comprendre pourquoi le FMI considérait que le régime issu du Code minier de 2002 ne faisait pas suffisamment participer l’État à la rente minière.",
+      "catalogue_sections": [
+        "République démocratique du Congo"
+      ],
+      "catalogue_files": [
+        "07_RDC/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/democratic-republic-of-the-congo-selected-issues-43336",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC021",
+      "title": "Zambia: Selected Issues",
+      "catalogue_label": "Zambie 2015 — Zambia: Selected Issues",
+      "publication_year": 2015,
+      "jurisdictions": [
+        "Congo, Dem. Rep.",
+        "Zambia"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/zambia-selected-issues-43000",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Fiscalité minière du cuivre. Analyse la contribution fiscale du secteur et les changements de régime. Très utile pour comparer RDC/Zambie sur la taxation du cuivre.",
+      "catalogue_sections": [
+        "Autres dossiers extractifs africains"
+      ],
+      "catalogue_files": [
+        "09_Autres_dossiers_extractifs/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/zambia-selected-issues-43000",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC022",
+      "title": "Mining Taxation: Modeling of Five Mining Operations",
+      "catalogue_label": "2016 — Mining Taxation: Modeling of Five Mining Operations",
+      "publication_year": 2016,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-mining-taxation-modeling-of-five-mining-operations-43797",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Business intelligence pure. Le FMI modélise cinq opérations minières réelles et leurs recettes publiques potentielles. C’est exactement le type de document qui permet de passer des taux légaux au cash effectivement récupérable par l’État.",
+      "catalogue_sections": [
+        "Mali — fiscalité minière"
+      ],
+      "catalogue_files": [
+        "08_Mali/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-mining-taxation-modeling-of-five-mining-operations-43797",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC023",
+      "title": "Tax Policy Diagnostic Assessment",
+      "catalogue_label": "2016 — Tax Policy Diagnostic Assessment",
+      "publication_year": 2016,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-tax-policy-diagnostic-assessment-43796",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Diagnostic beaucoup plus large du système fiscal malien : TVA, impôts directs, dépenses fiscales et potentiel de mobilisation. À utiliser pour comparer poids des mines et potentiel hors mines.",
+      "catalogue_sections": [
+        "Mali — fiscalité minière"
+      ],
+      "catalogue_files": [
+        "08_Mali/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-tax-policy-diagnostic-assessment-43796",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC024",
+      "title": "Fiscal Monitor: Tackling Inequality",
+      "catalogue_label": "2017 — Fiscal Monitor: Tackling Inequality",
+      "publication_year": 2017,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "gouvernance_contrat_social"
+      ],
+      "official_url": "https://www.imf.org/en/publications/fm/issues/2017/10/05/fiscal-monitor-october-2017",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Important pour la dimension distributive : progressivité, fiscalité des hauts revenus et rôle redistributif de la politique fiscale. À mobiliser lorsque nous examinerons si la DRM du FMI repose trop fortement sur les taxes à la consommation.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/fm/issues/2017/10/05/fiscal-monitor-october-2017",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC025",
+      "title": "Issues in International Taxation",
+      "catalogue_label": "Ouganda 2017 — Issues in International Taxation",
+      "publication_year": 2017,
+      "jurisdictions": [
+        "Uganda"
+      ],
+      "thematic_axes": [
+        "fiscalite_internationale",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2017/07/12/uganda-selected-issues-45070",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "À ne pas manquer dans notre matrice fiscalité internationale. Impôt sur les sociétés, multinationales, taxation transfrontalière et comparaison avec les voisins de l’EAC.",
+      "catalogue_sections": [
+        "Afrique de l’Est"
+      ],
+      "catalogue_files": [
+        "05_Afrique_Est/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2017/07/12/uganda-selected-issues-45070",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC026",
+      "title": "Fiscal Monitor: Capitalizing on Good Times",
+      "catalogue_label": "2018 — Fiscal Monitor: Capitalizing on Good Times",
+      "publication_year": 2018,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "impot_personnes_physiques"
+      ],
+      "official_url": "https://www.imf.org/en/publications/fm/issues/2018/04/06/fiscal-monitor-april-2018",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Apporte la composante digitalisation : données, déclaration et paiement électroniques, croisement des informations et amélioration de la conformité. C’est cette logique qui réapparaît ensuite presque systématiquement dans les programmes africains.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/fm/issues/2018/04/06/fiscal-monitor-april-2018",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC027",
+      "title": "International Taxation Issues",
+      "catalogue_label": "Kenya 2018 — International Taxation Issues",
+      "publication_year": 2018,
+      "jurisdictions": [
+        "Kenya"
+      ],
+      "thematic_axes": [
+        "fiscalite_internationale",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/Publications/CR/Issues/2018/10/23/Kenya-Selected-Issues-46302",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Conventions fiscales, earnings stripping, prix de transfert et protection de l’assiette de l’impôt sur les sociétés. Un des meilleurs papiers pays pour comprendre ce que le FMI considère comme vulnérabilité fiscale internationale en Afrique.",
+      "catalogue_sections": [
+        "Afrique de l’Est"
+      ],
+      "catalogue_files": [
+        "05_Afrique_Est/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/Publications/CR/Issues/2018/10/23/Kenya-Selected-Issues-46302",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC028",
+      "title": "Regional Economic Outlook: Domestic Revenue Mobilization and Private Investment",
+      "catalogue_label": "2018 — Regional Economic Outlook: Domestic Revenue Mobilization and Private Investment",
+      "publication_year": 2018,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/reo/ssa/issues/2018/04/30/sreo0518",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Le document régional de référence. Le FMI présente la mobilisation des recettes comme l’un des principaux défis de politique économique en Afrique subsaharienne et relie fiscalité, ODD, dette, dépenses sociales et investissement. C’est le point de départ idéal pour reconstituer la doctrine FMI sur l’Afrique.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/reo/ssa/issues/2018/04/30/sreo0518",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC029",
+      "title": "Tax Revenue Mobilization",
+      "catalogue_label": "Nigeria 2018 — Tax Revenue Mobilization",
+      "publication_year": 2018,
+      "jurisdictions": [
+        "Nigeria"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "depenses_fiscales",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2018/03/07/nigeria-selected-issues-45700",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Important pour comprendre l’après-pétrole : recettes non pétrolières, TVA, impôts sur le revenu, niches fiscales, tax holidays et ressources propres des États fédérés.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2018/03/07/nigeria-selected-issues-45700",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC030",
+      "title": "Tax Revenue Mobilization Episodes in Emerging Markets and Low-Income Countries",
+      "catalogue_label": "2018 — Tax Revenue Mobilization Episodes in Emerging Markets and Low-Income Countries",
+      "publication_year": 2018,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2018/11/02/tax-revenue-mobilization-episodes-in-emerging-markets-and-low-income-countries-lessons-from-45932",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Pas exclusivement africain, mais méthodologiquement essentiel : le FMI identifie des épisodes de hausse durable des recettes et ce qui les distingue. C’est la base de plusieurs analyses ultérieures par pays africain.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2018/11/02/tax-revenue-mobilization-episodes-in-emerging-markets-and-low-income-countries-lessons-from-45932",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC031",
+      "title": "Case Studies in Tax Revenue Mobilization in Low-Income Countries",
+      "catalogue_label": "2019 — Case Studies in Tax Revenue Mobilization in Low-Income Countries",
+      "publication_year": 2019,
+      "jurisdictions": [
+        "Gambia",
+        "Mauritania",
+        "Rwanda",
+        "Uganda"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2019/05/14/case-studies-in-tax-revenue-mobilization-in-low-income-countries-46719",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Extrêmement pertinent : études de cas de Burkina Faso, Gambie, Mauritanie, Rwanda, Sénégal et Ouganda, entre autres. Le papier croise réformes de politique fiscale, administration, engagement politique, TVA, exonérations et grands contribuables.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2019/05/14/case-studies-in-tax-revenue-mobilization-in-low-income-countries-46719",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC032",
+      "title": "Corporate Taxation in the Global Economy",
+      "catalogue_label": "2019 — Corporate Taxation in the Global Economy",
+      "publication_year": 2019,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "fiscalite_internationale",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/policy-papers/issues/2019/03/08/corporate-taxation-in-the-global-economy-46650",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Document crucial. Le FMI examine le système international de l’impôt sur les sociétés avec une attention particulière aux pays en développement et à leur capacité à taxer les activités des multinationales.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/policy-papers/issues/2019/03/08/corporate-taxation-in-the-global-economy-46650",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC033",
+      "title": "Selected Issues",
+      "catalogue_label": "2019 — Selected Issues",
+      "publication_year": 2019,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2019/09/04/democratic-republic-of-the-congo-selected-issues-48649",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "À lire après la réforme du Code minier de 2018. Il traite gouvernance des ressources naturelles, fiscalité et institutions de recettes. Permet surtout d’examiner pourquoi l’augmentation des taux juridiques ne règle pas nécessairement le problème de la captation effective.",
+      "catalogue_sections": [
+        "République démocratique du Congo"
+      ],
+      "catalogue_files": [
+        "07_RDC/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2019/09/04/democratic-republic-of-the-congo-selected-issues-48649",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC034",
+      "title": "Tax Revenue Mobilization in Benin",
+      "catalogue_label": "Bénin 2019 — Tax Revenue Mobilization in Benin",
+      "publication_year": 2019,
+      "jurisdictions": [
+        "Benin"
+      ],
+      "thematic_axes": [
+        "accises",
+        "administration_fiscale",
+        "depenses_fiscales",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/-/media/files/publications/cr/2019/1benea2019002.pdf",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Compare le Bénin à des pays ayant connu des hausses durables des recettes. TVA, accises, administration, exemptions et économie politique des réformes. C’est un précurseur du papier de 2022.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/-/media/files/publications/cr/2019/1benea2019002.pdf",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC035",
+      "title": "Non-Oil Revenue Mobilization",
+      "catalogue_label": "Congo-Brazzaville 2020 — Non-Oil Revenue Mobilization",
+      "publication_year": 2020,
+      "jurisdictions": [
+        "Congo, Rep."
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2020/01/27/republic-of-congo-selected-issues-48985",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très important pour un pays extractif : comment augmenter les recettes non pétrolières, rationaliser le code fiscal, élargir les assiettes et améliorer l’administration pour réduire la dépendance au pétrole.",
+      "catalogue_sections": [
+        "Afrique centrale, Grands Lacs et Corne de l’Afrique",
+        "Autres dossiers extractifs africains"
+      ],
+      "catalogue_files": [
+        "04_Afrique_centrale_Grands_Lacs_Corne/LIENS_OFFICIELS.md",
+        "09_Autres_dossiers_extractifs/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2020/01/27/republic-of-congo-selected-issues-48985",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC036",
+      "title": "Tax Revenue Mobilization Potential",
+      "catalogue_label": "Madagascar 2020 — Tax Revenue Mobilization Potential",
+      "publication_year": 2020,
+      "jurisdictions": [
+        "Madagascar"
+      ],
+      "thematic_axes": [
+        "accises",
+        "administration_fiscale",
+        "extractif",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2020/02/28/republic-of-madagascar-selected-issues-49189",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Élargissement de l’assiette de consommation, TVA, accises, douanes, partage des données entre fiscalité et douanes et amélioration de l’administration.",
+      "catalogue_sections": [
+        "Afrique centrale, Grands Lacs et Corne de l’Afrique"
+      ],
+      "catalogue_files": [
+        "04_Afrique_centrale_Grands_Lacs_Corne/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2020/02/28/republic-of-madagascar-selected-issues-49189",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC037",
+      "title": "Governance and Anti-Corruption Assessment",
+      "catalogue_label": "2021 — Governance and Anti-Corruption Assessment",
+      "publication_year": 2021,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "depenses_fiscales",
+        "extractif",
+        "gouvernance_contrat_social"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2021/05/25/democratic-republic-of-the-congo-technical-assistance-report-governance-and-anti-corruption-50191",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très important et souvent oublié. Examine administration des recettes, secteur minier, entreprises publiques, gouvernance et dépenses fiscales. C’est une source majeure pour comprendre comment contrats, exemptions et institutions réduisent la quantité de recettes qui arrive effectivement au Trésor.",
+      "catalogue_sections": [
+        "République démocratique du Congo"
+      ],
+      "catalogue_files": [
+        "07_RDC/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2021/05/25/democratic-republic-of-the-congo-technical-assistance-report-governance-and-anti-corruption-50191",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC038",
+      "title": "Guinea: Selected Issues",
+      "catalogue_label": "Guinée 2021 — Guinea: Selected Issues",
+      "publication_year": 2021,
+      "jurisdictions": [
+        "Guinea"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2021/07/06/guinea-selected-issues-461723",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Fiscalité du secteur minier, impôt sur les sociétés, ressources naturelles et prix de transfert. À lire avec Simandou en toile de fond et avec le papier régional 2021 sur l’évitement fiscal minier.",
+      "catalogue_sections": [
+        "Autres dossiers extractifs africains"
+      ],
+      "catalogue_files": [
+        "09_Autres_dossiers_extractifs/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2021/07/06/guinea-selected-issues-461723",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC039",
+      "title": "Is There Money on the Table?",
+      "catalogue_label": "2021 — Is There Money on the Table?",
+      "publication_year": 2021,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2021/01/15/is-there-money-on-the-table-evidence-on-the-magnitude-of-profit-shifting-in-the-extractive-49983",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Crucial. Le FMI mesure directement la sensibilité des bénéfices déclarés aux différences de taux d’impôt. Une hausse de 1 point du taux domestique est historiquement associée à une baisse de plus de 3 % des bénéfices sectoriels déclarés, avec une réaction plus forte dans les mines que dans le pétrole/gaz. Les limitations de déductibilité des intérêts semblent plus efficaces que les seules règles de prix de transfert dans l’échantillon étudié.",
+      "catalogue_sections": [
+        "Extractif et minier — travaux transversaux"
+      ],
+      "catalogue_files": [
+        "06_Extractif_et_minier_transversal/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2021/01/15/is-there-money-on-the-table-evidence-on-the-magnitude-of-profit-shifting-in-the-extractive-49983",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC040",
+      "title": "Tax Avoidance in Sub-Saharan Africa’s Mining Sector",
+      "catalogue_label": "2021 — Tax Avoidance in Sub-Saharan Africa’s Mining Sector",
+      "publication_year": 2021,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2021/09/27/tax-avoidance-in-sub-saharan-africas-mining-sector-464850",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "pdf_page_verified",
+      "corpus_note_fr": "Document phare sur les mines africaines. Identifie et chiffre les risques de transfert de bénéfices, dette intragroupe, prix de transfert, conventions fiscales, incitations et autres voies de réduction de la base imposable.",
+      "catalogue_sections": [
+        "Extractif et minier — travaux transversaux"
+      ],
+      "catalogue_files": [
+        "06_Extractif_et_minier_transversal/LIENS_OFFICIELS.md"
+      ],
+      "pages": 73,
+      "doi": "10.5089/9781513594361.087",
+      "direct_pdf_url": "https://www.imf.org/-/media/files/publications/dp/2021/english/tassamsea.pdf",
+      "file": "https://www.imf.org/-/media/files/publications/dp/2021/english/tassamsea.pdf"
+    },
+    {
+      "document_id": "DOC041",
+      "title": "Assessing the Scope for Domestic Revenue Mobilization",
+      "catalogue_label": "Côte d’Ivoire 2022 — Assessing the Scope for Domestic Revenue Mobilization",
+      "publication_year": 2022,
+      "jurisdictions": [
+        "Cote d'Ivoire"
+      ],
+      "thematic_axes": [
+        "accises",
+        "administration_fiscale",
+        "depenses_fiscales",
+        "fiscalite_fonciere_patrimoniale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Le FMI reconnaît les progrès administratifs et numériques mais estime les recettes encore faibles en comparaison internationale, en raison notamment des exonérations, de la faible productivité des taxes indirectes et de la non-conformité. Il recommande IRPP plus simple et progressif, réduction des exemptions, foncier, accises et administration.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "pages": 23,
+      "doi": "10.5089/9798400214134.002",
+      "series_number": "Country Report 2022/206",
+      "file": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261"
+    },
+    {
+      "document_id": "DOC042",
+      "title": "Fiscal Monitor: Coordinating Taxation Across Borders",
+      "catalogue_label": "2022 — Fiscal Monitor: Coordinating Taxation Across Borders",
+      "publication_year": 2022,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "fiscalite_internationale",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/fm/issues/2022/04/12/fiscal-monitor-april-2022",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Profit shifting, concurrence fiscale, échange d’informations et coordination internationale. À lire directement avec les positions africaines dans les négociations fiscales internationales.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/fm/issues/2022/04/12/fiscal-monitor-april-2022",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC043",
+      "title": "Tax Potential and Options for Domestic Revenue Mobilization",
+      "catalogue_label": "Bénin 2022 — Tax Potential and Options for Domestic Revenue Mobilization",
+      "publication_year": 2022,
+      "jurisdictions": [
+        "Benin"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2022/07/25/benin-selected-issues-521310",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très utile quantitativement. Le papier estime notamment le potentiel fiscal, étudie les écarts de TVA et d’impôt sur le revenu et insiste sur dépenses fiscales, digitalisation et stratégie de recettes à moyen terme.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2022/07/25/benin-selected-issues-521310",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC044",
+      "title": "Building Tax Capacity in Developing Countries",
+      "catalogue_label": "2023 — Building Tax Capacity in Developing Countries",
+      "publication_year": 2023,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/staff-discussion-notes/issues/2023/09/15/building-tax-capacity-in-developing-countries-535449",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Un des textes les plus importants du corpus. Le FMI ne parle plus seulement de « revenue mobilization » mais de tax capacity, c’est-à-dire politique, institutions et capacités techniques. L’étude estime qu’une hausse allant jusqu’à 9 points de PIB peut théoriquement être envisageable à travers réforme du système fiscal et renforcement institutionnel.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/staff-discussion-notes/issues/2023/09/15/building-tax-capacity-in-developing-countries-535449",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC045",
+      "title": "Designing a Presumptive Income Tax Based on Turnover",
+      "catalogue_label": "2023 — Designing a Presumptive Income Tax Based on Turnover",
+      "publication_year": 2023,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "impot_personnes_physiques",
+        "informalite"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2023/12/22/designing-a-presumptive-income-tax-based-on-turnover-in-countries-with-large-informal-542831",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très utile pour le débat sur l’informalité. Le FMI tente de calibrer concrètement la taxation forfaitaire basée sur le chiffre d’affaires plutôt que simplement recommander « d’élargir l’assiette ».",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2023/12/22/designing-a-presumptive-income-tax-based-on-turnover-in-countries-with-large-informal-542831",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC046",
+      "title": "International Corporate Tax Reform",
+      "catalogue_label": "2023 — International Corporate Tax Reform",
+      "publication_year": 2023,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/policy-papers/issues/2023/02/06/international-corporate-tax-reform-529240",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Analyse Piliers 1 et 2. Le FMI juge la réforme de 2021 capable de rendre le système plus robuste et de relever modestement les recettes mondiales, mais le document permet aussi d’examiner les implications spécifiques pour les économies en développement.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/policy-papers/issues/2023/02/06/international-corporate-tax-reform-529240",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC047",
+      "title": "Lessons from Successful Revenue Reform Episodes",
+      "catalogue_label": "Nigeria 2023 — Lessons from Successful Revenue Reform Episodes",
+      "publication_year": 2023,
+      "jurisdictions": [
+        "Nigeria"
+      ],
+      "thematic_axes": [
+        "accises",
+        "administration_fiscale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2023/03/07/nigerias-tax-revenue-mobilization-lessons-from-successful-revenue-reform-episodes-nigeria-530628",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Très bon papier comparatif. Les ingrédients des épisodes réussis sont réforme simultanée de politique et d’administration, TVA/accises, rationalisation des incitations, segmentation des contribuables, automatisation et soutien politique/social.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "pages": 19,
+      "doi": "10.5089/9798400234989.018",
+      "series_number": "Selected Issues Paper 2023/019",
+      "file": "https://www.imf.org/en/publications/selected-issues-papers/issues/2023/03/07/nigerias-tax-revenue-mobilization-lessons-from-successful-revenue-reform-episodes-nigeria-530628"
+    },
+    {
+      "document_id": "DOC048",
+      "title": "Tax Reforms in Rwanda",
+      "catalogue_label": "Rwanda 2023 — Tax Reforms in Rwanda",
+      "publication_year": 2023,
+      "jurisdictions": [
+        "Rwanda"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2023/12/18/rwanda-selected-issues-542584",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Le titre résume la conclusion : les paquets de réformes cohérents sont plus efficaces que les mesures isolées. Taux, assiettes, conformité, évasion et distribution de la charge fiscale.",
+      "catalogue_sections": [
+        "Afrique centrale, Grands Lacs et Corne de l’Afrique"
+      ],
+      "catalogue_files": [
+        "04_Afrique_centrale_Grands_Lacs_Corne/LIENS_OFFICIELS.md"
+      ],
+      "doi": "10.5089/9798400261046.002",
+      "series_number": "Country Report 2023/423",
+      "file": "https://www.imf.org/en/publications/cr/issues/2023/12/18/rwanda-selected-issues-542584",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC049",
+      "title": "Towards More Efficient Non-Resource Taxation: A Strategy for Reform",
+      "catalogue_label": "2023 — Towards More Efficient Non-Resource Taxation: A Strategy for Reform",
+      "publication_year": 2023,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "extractif",
+        "impot_societes",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2023/01/13/republic-of-mozambique-towards-more-efficient-non-resource-taxation-a-strategy-for-reform-528152",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "TVA, impôt sur les sociétés, incitations et stratégie globale de mobilisation des recettes non extractives. Permet de voir comment le FMI traite une économie avec d’importantes rentes futures de gaz mais une base fiscale domestique limitée.",
+      "catalogue_sections": [
+        "Mozambique"
+      ],
+      "catalogue_files": [
+        "10_Mozambique/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2023/01/13/republic-of-mozambique-towards-more-efficient-non-resource-taxation-a-strategy-for-reform-528152",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC050",
+      "title": "Domestic Revenue Mobilization",
+      "catalogue_label": "2024 — Domestic Revenue Mobilization",
+      "publication_year": 2024,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "extractif",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2024/07/15/democratic-republic-of-the-congo-selected-issues-551897",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Le document à utiliser comme référence actuelle. Le FMI constate que les recettes fiscales avaient atteint 13,7 % du PIB en 2023, avec une contribution accrue de l’impôt sur les sociétés, notamment extractif. Mais il continue de mettre l’accent sur l’évitement fiscal minier et estime un potentiel d’augmentation des recettes de l’ordre de 10 points de PIB avec de meilleures politiques et une meilleure collecte. Attention : les 10 points concernent l’ensemble du système fiscal, pas seulement les mines.",
+      "catalogue_sections": [
+        "République démocratique du Congo"
+      ],
+      "catalogue_files": [
+        "07_RDC/LIENS_OFFICIELS.md"
+      ],
+      "pages": 22,
+      "doi": "10.5089/9798400283451.002",
+      "file": "https://www.imf.org/en/publications/cr/issues/2024/07/15/democratic-republic-of-the-congo-selected-issues-551897"
+    },
+    {
+      "document_id": "DOC051",
+      "title": "How to Design and Implement Property Tax Reforms",
+      "catalogue_label": "2024 — How to Design and Implement Property Tax Reforms",
+      "publication_year": 2024,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "fiscalite_fonciere_patrimoniale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/imf-how-to-notes/issues/2024/09/19/how-to-design-and-implement-property-tax-reforms-555103",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très important pour les collectivités africaines. Le FMI estime que la fiscalité immobilière est fortement sous-utilisée et fournit un manuel sur base, valorisation, taux, facturation et recouvrement. Le document note que les taxes foncières en Afrique subsaharienne ne rapportaient qu’une fraction de ce qu’elles produisent dans les économies avancées.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/imf-how-to-notes/issues/2024/09/19/how-to-design-and-implement-property-tax-reforms-555103",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC052",
+      "title": "Managing Tax Incentives in Developing Countries",
+      "catalogue_label": "2024 — Managing Tax Incentives in Developing Countries",
+      "publication_year": 2024,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "official_url": "https://www.imf.org/en/publications/tnm/issues/2024/11/21/managing-tax-incentives-in-developing-countries-554978",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "À lire avec le rapport SSA sur les dépenses fiscales. Gouvernance des incitations, zones économiques spéciales, risques de conformité, transparence et arbitrage coût/bénéfice.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/tnm/issues/2024/11/21/managing-tax-incentives-in-developing-countries-554978",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC053",
+      "title": "Mobilizing Mining Revenue",
+      "catalogue_label": "Sierra Leone 2024 — Mobilizing Mining Revenue",
+      "publication_year": 2024,
+      "jurisdictions": [
+        "Sierra Leone"
+      ],
+      "thematic_axes": [
+        "extractif"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2024/11/22/sierra-leone-selected-issues-558779",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très pertinent. Traite directement des difficultés de mobilisation des recettes minières, des concessions négociées, des capacités administratives et du respect des obligations de royalties.",
+      "catalogue_sections": [
+        "Autres dossiers extractifs africains"
+      ],
+      "catalogue_files": [
+        "09_Autres_dossiers_extractifs/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2024/11/22/sierra-leone-selected-issues-558779",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC054",
+      "title": "Tax Policy and Administration",
+      "catalogue_label": "Kenya 2024 — Tax Policy and Administration",
+      "publication_year": 2024,
+      "jurisdictions": [
+        "Kenya"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2024/01/17/kenya-selected-issues-543892",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Replace le recul récent du ratio fiscal kenyan dans une longue série et compare les modifications de politique et d’administration fiscale dans l’EAC. Très utile pour distinguer problème de taux, d’assiette et de collecte.",
+      "catalogue_sections": [
+        "Afrique de l’Est"
+      ],
+      "catalogue_files": [
+        "05_Afrique_Est/LIENS_OFFICIELS.md"
+      ],
+      "doi": "10.5089/9798400264467.002",
+      "series_number": "Country Report 2024/014",
+      "file": "https://www.imf.org/en/publications/cr/issues/2024/01/17/kenya-selected-issues-543892",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC055",
+      "title": "Tax Revenue Mobilization",
+      "catalogue_label": "Togo 2024 — Tax Revenue Mobilization",
+      "publication_year": 2024,
+      "jurisdictions": [
+        "Togo"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2024/09/23/togo-selected-issues-555144",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Analyse potentiel fiscal et différence entre recettes effectives et frontière estimée. Très utile pour confronter les estimations FMI aux objectifs de mobilisation du pays et à la question des dépenses fiscales.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/cr/issues/2024/09/23/togo-selected-issues-555144",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC056",
+      "title": "Building Tax Capacity for Growth and Development",
+      "catalogue_label": "2025 — Building Tax Capacity for Growth and Development",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "pdf_page_verified",
+      "corpus_note_fr": "La synthèse la plus aboutie de la doctrine récente. Elle met en avant le seuil de 15 % du PIB de recettes fiscales, indique que 71 pays restent sous ce seuil et estime qu’une réforme fiscale complète pourrait générer environ 5 points de PIB supplémentaires. Elle insiste sur l’intégration politique fiscale–droit fiscal–administration.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "pages": 48,
+      "doi": "10.5089/9798229027298.087",
+      "series_number": "Departmental Paper 2025/007",
+      "direct_pdf_url": "https://www.imf.org/-/media/files/publications/dp/2025/english/btcgdea.pdf",
+      "file": "https://www.imf.org/-/media/files/publications/dp/2025/english/btcgdea.pdf"
+    },
+    {
+      "document_id": "DOC057",
+      "title": "Domestic Revenue Mobilization in WAEMU",
+      "catalogue_label": "UEMOA 2025 — Domestic Revenue Mobilization in WAEMU",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "WAEMU"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "informalite"
+      ],
+      "official_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/06/06/domestic-revenue-mobilization-in-waemu-waemu-567482",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Indispensable pour notre travail francophone. Le FMI lie les performances fiscales régionales à des assiettes étroites, exonérations, informalité et capacités de contrôle limitées. Il ajoute une dimension spécifiquement régionale : harmonisation, suivi et coopération UEMOA.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/06/06/domestic-revenue-mobilization-in-waemu-waemu-567482",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC058",
+      "title": "Enhancing Tax Capacity: Revenue Gains from Strengthening Tax Administration",
+      "catalogue_label": "2025 — Enhancing Tax Capacity: Revenue Gains from Strengthening Tax Administration",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2025/10/24/enhancing-tax-capacity-revenue-gains-from-strengthening-tax-administration-571373",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Cherche à quantifier le rendement propre du renforcement de l’administration fiscale à partir d’un large panel de pays. À utiliser pour distinguer ce que le FMI attribue aux changements de taux et ce qu’il attribue à une meilleure collecte.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2025/10/24/enhancing-tax-capacity-revenue-gains-from-strengthening-tax-administration-571373",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC059",
+      "title": "Improving Tax Revenue Mobilization",
+      "catalogue_label": "Mauritanie 2024/2025 — Improving Tax Revenue Mobilization",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Mauritania"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/cr/issues/2025/01/17/islamic-republic-of-mauritania-selected-issues-561063",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Le FMI évalue le potentiel supplémentaire à jusqu’à 3,4 % du PIB à moyen terme, soit environ un tiers du tax gap. TVA, incitations fiscales des entreprises, impôt personnel, arriérés, procédures et conformité.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "pages": 16,
+      "doi": "10.5089/9798229000796.002",
+      "file": "https://www.imf.org/en/publications/cr/issues/2025/01/17/islamic-republic-of-mauritania-selected-issues-561063"
+    },
+    {
+      "document_id": "DOC060",
+      "title": "Is Tax Policy Costly Industrial Policy in Mozambique?",
+      "catalogue_label": "2025 — Is Tax Policy Costly Industrial Policy in Mozambique?",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Mozambique"
+      ],
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2025/01/17/is-tax-policy-costly-industrial-policy-in-mozambique-561058",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très intéressant sur le coût des incitations fiscales utilisées comme politique industrielle. Interroge directement la relation entre exemptions accordées pour attirer les investissements et recettes effectivement perdues.",
+      "catalogue_sections": [
+        "Mozambique"
+      ],
+      "catalogue_files": [
+        "10_Mozambique/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/wp/issues/2025/01/17/is-tax-policy-costly-industrial-policy-in-mozambique-561058",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC061",
+      "title": "Tax Expenditures in Sub-Saharan Africa",
+      "catalogue_label": "2025 — Tax Expenditures in Sub-Saharan Africa",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Sub-Saharan Africa"
+      ],
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "official_url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/07/tax-expenditures-in-sub-saharan-africa-570060",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "pdf_page_verified",
+      "corpus_note_fr": "Document fondamental. Il faut le lire comme le chaînon manquant entre « augmenter les impôts » et « arrêter d’abandonner des recettes ». Exonérations, crédits d’impôt, taux préférentiels, transparence et problèmes de données. Le FMI met l’accent sur les coûts budgétaires souvent mal mesurés des dépenses fiscales.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "pages": 49,
+      "doi": "10.5089/9798229023887.087",
+      "direct_pdf_url": "https://www.imf.org/-/media/files/publications/dp/2025/english/tessaea.pdf",
+      "file": "https://www.imf.org/-/media/files/publications/dp/2025/english/tessaea.pdf"
+    },
+    {
+      "document_id": "DOC062",
+      "title": "Tax Potential and Revenue Mobilization",
+      "catalogue_label": "Niger 2025 — Tax Potential and Revenue Mobilization",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Niger"
+      ],
+      "thematic_axes": [
+        "accises",
+        "administration_fiscale",
+        "fiscalite_fonciere_patrimoniale",
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/04/18/tax-potential-and-revenue-mobilization-in-niger-niger-566307",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Excellent papier quantitatif. Le FMI estime un tax gap à 3,4 % du PIB en 2022, notamment sur taxes sur biens/services et commerce international. Recommandations : TVA, accises, foncier et administration.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "pages": 19,
+      "doi": "10.5089/9798229007221.018",
+      "file": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/04/18/tax-potential-and-revenue-mobilization-in-niger-niger-566307"
+    },
+    {
+      "document_id": "DOC063",
+      "title": "Tax System: Structure, Performance, and Benchmarking",
+      "catalogue_label": "Éthiopie 2025 — Tax System: Structure, Performance, and Benchmarking",
+      "publication_year": 2025,
+      "jurisdictions": [
+        "Ethiopia"
+      ],
+      "thematic_axes": [
+        "tva"
+      ],
+      "official_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/07/30/ethiopias-tax-system-structure-performance-and-benchmarking-569136",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "Très riche en données. Le ratio fiscal reste parmi les plus faibles d’Afrique subsaharienne malgré la croissance. Le FMI décompose TVA, impôts personnel et sociétés, commerce, efficacité fiscale et potentiel via une frontière stochastique.",
+      "catalogue_sections": [
+        "Afrique centrale, Grands Lacs et Corne de l’Afrique"
+      ],
+      "catalogue_files": [
+        "04_Afrique_centrale_Grands_Lacs_Corne/LIENS_OFFICIELS.md"
+      ],
+      "pages": 24,
+      "doi": "10.5089/9798229019255.018",
+      "series_number": "Selected Issues Paper 2025/108",
+      "file": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/07/30/ethiopias-tax-system-structure-performance-and-benchmarking-569136"
+    },
+    {
+      "document_id": "DOC064",
+      "title": "Domestic Revenue Mobilization Across Emerging and Developing Countries: One Size Does Not Fit All",
+      "catalogue_label": "2026 — Domestic Revenue Mobilization Across Emerging and Developing Countries: One Size Does Not Fit All",
+      "publication_year": 2026,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.imf.org/en/publications/wp/issues/2026/09/25/domestic-revenue-mobilization-across-emerging-and-developing-countries-one-size-does-not-578738",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "pdf_page_verified",
+      "corpus_note_fr": "Publication du 25 septembre 2026, donc une des plus récentes. Sur 118 pays, le FMI trouve que les moteurs de la mobilisation changent selon le niveau initial de recettes. À faible performance fiscale, croissance, assistance technique FMI et gouvernance sont fortement associées aux gains ; aux niveaux plus élevés, la gouvernance devient particulièrement déterminante. Le titre est important : le FMI reconnaît explicitement qu’une stratégie unique ne fonctionne pas partout.",
+      "catalogue_sections": [
+        "Afrique subsaharienne — corpus prioritaire"
+      ],
+      "catalogue_files": [
+        "01_Afrique_subsaharienne_prioritaire/LIENS_OFFICIELS.md"
+      ],
+      "pages": 30,
+      "doi": "10.5089/9798229057318.001",
+      "series_number": "WP/2026/205",
+      "file": "https://www.imf.org/en/publications/wp/issues/2026/09/25/domestic-revenue-mobilization-across-emerging-and-developing-countries-one-size-does-not-578738"
+    },
+    {
+      "document_id": "DOC065",
+      "title": "Enhancing Domestic Revenue Mobilization to Strengthen State Capacity",
+      "catalogue_label": "Burundi 2026 — Enhancing Domestic Revenue Mobilization to Strengthen State Capacity",
+      "publication_year": 2026,
+      "jurisdictions": [
+        "Burundi"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "gouvernance_contrat_social",
+        "informalite",
+        "tva"
+      ],
+      "official_url": "https://www.elibrary.imf.org/view/journals/002/2026/151/002.2026.issue-151-en.xml",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Particulièrement intéressant doctrinalement : le FMI insiste sur exonérations discrétionnaires, faiblesse de la TVA et informalité, et avertit que la digitalisation seule ne suffit pas. Il recommande une approche intégrant politique fiscale, droit et administration.",
+      "catalogue_sections": [
+        "Afrique centrale, Grands Lacs et Corne de l’Afrique"
+      ],
+      "catalogue_files": [
+        "04_Afrique_centrale_Grands_Lacs_Corne/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.elibrary.imf.org/view/journals/002/2026/151/002.2026.issue-151-en.xml",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC066",
+      "title": "Fiscal Monitor: Fiscal Policy under Pressure",
+      "catalogue_label": "2026 — Fiscal Monitor: Fiscal Policy under Pressure",
+      "publication_year": 2026,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "gouvernance_contrat_social"
+      ],
+      "official_url": "https://www.imf.org/en/publications/fm/issues/2026/04/15/fiscal-monitor-april-2026",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Ce n’est pas un rapport fiscal africain au sens strict, mais c’est le contexte macroéconomique actuel qui explique pourquoi la DRM est redevenue prioritaire : dette élevée, besoins de financement et moindre marge de manœuvre budgétaire.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/fm/issues/2026/04/15/fiscal-monitor-april-2026",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC067",
+      "title": "Special Economic Zones and How to Tax Them",
+      "catalogue_label": "2026 — Special Economic Zones and How to Tax Them",
+      "publication_year": 2026,
+      "jurisdictions": [
+        "Global or multi-country"
+      ],
+      "thematic_axes": [
+        "depenses_fiscales",
+        "impot_societes"
+      ],
+      "official_url": "https://www.imf.org/en/publications/imf-how-to-notes/issues/2026/08/27/special-economic-zones-and-how-to-tax-them-577213",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Très pertinent pour l’Afrique où les zones économiques spéciales sont souvent accompagnées de longues vacances fiscales. Le FMI privilégie une fiscalité plus neutre et des incitations limitées dans le temps et davantage liées aux coûts qu’aux profits.",
+      "catalogue_sections": [
+        "Doctrine générale du FMI"
+      ],
+      "catalogue_files": [
+        "02_Doctrine_generale_FMI/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.imf.org/en/publications/imf-how-to-notes/issues/2026/08/27/special-economic-zones-and-how-to-tax-them-577213",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC068",
+      "title": "Strengthening Domestic Revenue Mobilization",
+      "catalogue_label": "Gambie 2026 — Strengthening Domestic Revenue Mobilization",
+      "publication_year": 2026,
+      "jurisdictions": [
+        "Gambia"
+      ],
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "official_url": "https://www.elibrary.imf.org/view/journals/018/2026/068/018.2026.issue-068-en.xml",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "corpus_description_only",
+      "corpus_note_fr": "Document très récent. Compare performance et potentiel fiscal, évalue la stratégie nationale de DRM et utilise le Revenue Assessment and Yield Tool – RAYT du FMI pour identifier les réformes réalisables et leur rendement potentiel.",
+      "catalogue_sections": [
+        "Afrique de l’Ouest et UEMOA"
+      ],
+      "catalogue_files": [
+        "03_Afrique_Ouest_UEMOA/LIENS_OFFICIELS.md"
+      ],
+      "file": "https://www.elibrary.imf.org/view/journals/018/2026/068/018.2026.issue-068-en.xml",
+      "pages": "not_profiled"
+    },
+    {
+      "document_id": "DOC069",
+      "title": "Strengthening Domestic Revenue Mobilization for Fiscal Resilience",
+      "catalogue_label": "Cameroun 2026 — Strengthening Domestic Revenue Mobilization for Fiscal Resilience",
+      "publication_year": 2026,
+      "jurisdictions": [
+        "Cameroon"
+      ],
+      "thematic_axes": [
+        "administration_fiscale",
+        "gouvernance_contrat_social"
+      ],
+      "official_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/04/17/strengthening-domestic-revenue-mobilization-for-fiscal-resilience-in-cameroon-575441",
+      "local_pdf_available": false,
+      "access_status": "official_link_accessible; PDF_not_stored_locally",
+      "verification_level": "official_publication_summary",
+      "corpus_note_fr": "À lire en priorité. Le papier traite performance fiscale, potentiel, dépenses fiscales et ensembles de réformes. Il permet de voir exactement comment le FMI applique aujourd’hui sa doctrine de tax capacity au Cameroun.",
+      "catalogue_sections": [
+        "Afrique centrale, Grands Lacs et Corne de l’Afrique"
+      ],
+      "catalogue_files": [
+        "04_Afrique_centrale_Grands_Lacs_Corne/LIENS_OFFICIELS.md"
+      ],
+      "doi": "10.5089/9798229043090.018",
+      "series_number": "Selected Issues Paper 2026/029",
+      "file": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/04/17/strengthening-domestic-revenue-mobilization-for-fiscal-resilience-in-cameroon-575441",
+      "pages": "not_profiled"
+    }
+  ],
+  "normalized_findings": [
+    {
+      "finding_id": "F001",
+      "theme": "depenses_fiscales",
+      "label_fr": "Part approximative des pays d’Afrique subsaharienne sans inventaire ni estimation des dépenses fiscales",
+      "value": 30,
+      "unit": "percent_of_countries",
+      "period": null,
+      "geography": "Sub-Saharan Africa",
+      "source": {
+        "document_id": "DOC061",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/07/tax-expenditures-in-sub-saharan-africa-570060",
+        "locator": "PDF p. 6",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F002",
+      "theme": "depenses_fiscales",
+      "label_fr": "Fourchette des pertes de recettes déclarées au titre des dépenses fiscales",
+      "value": [
+        0.1,
+        13.0
+      ],
+      "unit": "percent_of_GDP_range",
+      "period": null,
+      "geography": "Sub-Saharan Africa",
+      "source": {
+        "document_id": "DOC061",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/07/tax-expenditures-in-sub-saharan-africa-570060",
+        "locator": "PDF p. 27",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F003",
+      "theme": "depenses_fiscales",
+      "label_fr": "Moyenne des pertes de recettes déclarées au titre des dépenses fiscales parmi les pays déclarants",
+      "value": 3.0,
+      "unit": "percent_of_GDP",
+      "period": null,
+      "geography": "Sub-Saharan Africa",
+      "source": {
+        "document_id": "DOC061",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/07/tax-expenditures-in-sub-saharan-africa-570060",
+        "locator": "PDF p. 27",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F004",
+      "theme": "capacite_fiscale",
+      "label_fr": "Seuil de recettes fiscales associé à une capacité minimale de financement du développement",
+      "value": 15.0,
+      "unit": "percent_of_GDP",
+      "period": null,
+      "geography": "Developing countries",
+      "source": {
+        "document_id": "DOC056",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+        "locator": "Résumé officiel et PDF",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F005",
+      "theme": "capacite_fiscale",
+      "label_fr": "Nombre de pays situés sous le seuil de 15 % de recettes fiscales sur PIB",
+      "value": 71,
+      "unit": "countries",
+      "period": null,
+      "geography": "Developing countries",
+      "source": {
+        "document_id": "DOC056",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "finding_id": "F006",
+      "theme": "capacite_fiscale",
+      "label_fr": "Gain moyen potentiel estimé d’une réforme complète du système fiscal",
+      "value": 5.0,
+      "unit": "percentage_points_of_GDP",
+      "period": null,
+      "geography": "Developing countries",
+      "source": {
+        "document_id": "DOC056",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+        "locator": "Résumé officiel; PDF pp. 15-16",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F007",
+      "theme": "capacite_fiscale",
+      "label_fr": "Potentiel fiscal moyen estimé des pays à faible revenu",
+      "value": 17.7,
+      "unit": "percent_of_GDP",
+      "period": "2017-2021",
+      "geography": "Low-income developing countries",
+      "source": {
+        "document_id": "DOC056",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+        "locator": "PDF p. 15",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F008",
+      "theme": "capacite_fiscale",
+      "label_fr": "Potentiel fiscal moyen estimé des économies émergentes",
+      "value": 21.5,
+      "unit": "percent_of_GDP",
+      "period": "2017-2021",
+      "geography": "Emerging market economies",
+      "source": {
+        "document_id": "DOC056",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+        "locator": "PDF p. 15",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F009",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Couverture du panel de l’étude sur l’hétérogénéité de la mobilisation des recettes",
+      "value": 118,
+      "unit": "countries",
+      "period": "1990-2022",
+      "geography": "Emerging and developing countries",
+      "source": {
+        "document_id": "DOC064",
+        "url": "https://www.imf.org/en/publications/wp/issues/2026/09/25/domestic-revenue-mobilization-across-emerging-and-developing-countries-one-size-does-not-578738",
+        "locator": "PDF pp. 1, 4 et 7",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "finding_id": "F010",
+      "theme": "administration_fiscale",
+      "label_fr": "Coefficient de l’assistance technique FMI au 10e quantile dans la spécification à effets fixes",
+      "value": 0.683,
+      "unit": "regression_coefficient",
+      "period": "1990-2022",
+      "geography": "Emerging and developing countries",
+      "source": {
+        "document_id": "DOC064",
+        "url": "https://www.imf.org/en/publications/wp/issues/2026/09/25/domestic-revenue-mobilization-across-emerging-and-developing-countries-one-size-does-not-578738",
+        "locator": "PDF p. 15",
+        "verification_level": "pdf_page_verified",
+        "note": "Significatif à 5 % dans le tableau reproduit."
+      }
+    },
+    {
+      "finding_id": "F011",
+      "theme": "gouvernance_contrat_social",
+      "label_fr": "Coefficient de gouvernance au 90e quantile dans la spécification à effets fixes",
+      "value": 0.743,
+      "unit": "regression_coefficient",
+      "period": "1990-2022",
+      "geography": "Emerging and developing countries",
+      "source": {
+        "document_id": "DOC064",
+        "url": "https://www.imf.org/en/publications/wp/issues/2026/09/25/domestic-revenue-mobilization-across-emerging-and-developing-countries-one-size-does-not-578738",
+        "locator": "PDF p. 15",
+        "verification_level": "pdf_page_verified",
+        "note": "Significatif à 1 % dans le tableau reproduit."
+      }
+    },
+    {
+      "finding_id": "F012",
+      "theme": "extractif",
+      "label_fr": "Perte annuelle estimée d’impôt sur les sociétés liée à l’évitement des multinationales minières africaines",
+      "value": [
+        470,
+        730
+      ],
+      "unit": "million_USD_per_year_range",
+      "period": null,
+      "geography": "Sub-Saharan Africa mining",
+      "source": {
+        "document_id": "DOC040",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2021/09/27/tax-avoidance-in-sub-saharan-africas-mining-sector-464850",
+        "locator": "PDF p. 8",
+        "verification_level": "pdf_page_verified",
+        "note": "Le même rapport donne 450-730 millions USD p. 23; divergence conservée dans F013."
+      }
+    },
+    {
+      "finding_id": "F013",
+      "theme": "extractif",
+      "label_fr": "Autre fourchette présentée dans le même rapport pour la perte annuelle d’impôt sur les sociétés minier",
+      "value": [
+        450,
+        730
+      ],
+      "unit": "million_USD_per_year_range",
+      "period": null,
+      "geography": "Sub-Saharan Africa mining",
+      "source": {
+        "document_id": "DOC040",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2021/09/27/tax-avoidance-in-sub-saharan-africas-mining-sector-464850",
+        "locator": "PDF p. 23",
+        "verification_level": "pdf_page_verified",
+        "note": "À rapprocher de F012; différence de borne basse non résolue."
+      }
+    },
+    {
+      "finding_id": "F014",
+      "theme": "fiscalite_internationale",
+      "label_fr": "Variation historique des bénéfices sectoriels déclarés associée à une hausse d’un point du taux domestique",
+      "value": -3.0,
+      "unit": "percent_change_or_more",
+      "period": null,
+      "geography": "Extractive industries",
+      "source": {
+        "document_id": "DOC039",
+        "url": "https://www.imf.org/en/publications/wp/issues/2021/01/15/is-there-money-on-the-table-evidence-on-the-magnitude-of-profit-shifting-in-the-extractive-49983",
+        "locator": "Résumé du corpus fondé sur le papier FMI",
+        "verification_level": "corpus_description_only",
+        "note": "Relation économétrique; ne pas interpréter comme une perte comptable mécanique."
+      }
+    },
+    {
+      "finding_id": "F015",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Recettes fiscales observées en RDC",
+      "value": 13.7,
+      "unit": "percent_of_GDP",
+      "period": "2023",
+      "geography": "Congo, Dem. Rep.",
+      "source": {
+        "document_id": "DOC050",
+        "url": "https://www.imf.org/en/publications/cr/issues/2024/07/15/democratic-republic-of-the-congo-selected-issues-551897",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "finding_id": "F016",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Potentiel global approximatif d’augmentation des recettes avec amélioration de la politique et de la collecte",
+      "value": 10.0,
+      "unit": "percentage_points_of_GDP",
+      "period": null,
+      "geography": "Congo, Dem. Rep.",
+      "source": {
+        "document_id": "DOC050",
+        "url": "https://www.imf.org/en/publications/cr/issues/2024/07/15/democratic-republic-of-the-congo-selected-issues-551897",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary",
+        "note": "Potentiel de l’ensemble du système fiscal, pas uniquement du secteur minier."
+      }
+    },
+    {
+      "finding_id": "F017",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Écart fiscal estimé",
+      "value": 3.4,
+      "unit": "percent_of_GDP",
+      "period": "2022",
+      "geography": "Niger",
+      "source": {
+        "document_id": "DOC062",
+        "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/04/18/tax-potential-and-revenue-mobilization-in-niger-niger-566307",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "finding_id": "F018",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Recettes supplémentaires mobilisables à moyen terme en réduisant d’un tiers l’écart fiscal",
+      "value": 3.4,
+      "unit": "percent_of_GDP",
+      "period": "medium_term",
+      "geography": "Mauritania",
+      "source": {
+        "document_id": "DOC059",
+        "url": "https://www.imf.org/en/publications/cr/issues/2025/01/17/islamic-republic-of-mauritania-selected-issues-561063",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "finding_id": "F019",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Gain typique des épisodes de mobilisation à court ou moyen terme",
+      "value": [
+        0.5,
+        2.0
+      ],
+      "unit": "percentage_points_of_GDP_range",
+      "period": "short_to_medium_term",
+      "geography": "Sub-Saharan Africa",
+      "source": {
+        "document_id": "DOC012",
+        "url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mobilizing-revenue-in-sub-saharan-africa-empirical-norms-and-key-determinants-25882",
+        "locator": "Description du corpus",
+        "verification_level": "corpus_description_only"
+      }
+    },
+    {
+      "finding_id": "F020",
+      "theme": "mobilisation_recettes",
+      "label_fr": "Gain typique des épisodes de mobilisation à plus long terme",
+      "value": [
+        2.0,
+        3.5
+      ],
+      "unit": "percentage_points_of_GDP_range",
+      "period": "long_term",
+      "geography": "Sub-Saharan Africa",
+      "source": {
+        "document_id": "DOC012",
+        "url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mobilizing-revenue-in-sub-saharan-africa-empirical-norms-and-key-determinants-25882",
+        "locator": "Description du corpus",
+        "verification_level": "corpus_description_only"
+      }
+    },
+    {
+      "finding_id": "F021",
+      "theme": "capacite_fiscale",
+      "label_fr": "Hausse théorique maximale de recettes envisageable par réforme du système fiscal et renforcement institutionnel",
+      "value": 9.0,
+      "unit": "percentage_points_of_GDP",
+      "period": null,
+      "geography": "Developing countries",
+      "source": {
+        "document_id": "DOC044",
+        "url": "https://www.imf.org/en/publications/staff-discussion-notes/issues/2023/09/15/building-tax-capacity-in-developing-countries-535449",
+        "locator": "Description du corpus",
+        "verification_level": "corpus_description_only",
+        "note": "Estimation sous hypothèses; non directement comparable aux écarts fiscaux pays."
+      }
+    },
+    {
+      "finding_id": "F022",
+      "theme": "extractif",
+      "label_fr": "Taux de redevance minière optimal dans le cadre modélisé",
+      "value": 3.5,
+      "unit": "percent_of_revenue_or_value_model_specific",
+      "period": null,
+      "geography": "Mali",
+      "source": {
+        "document_id": "DOC009",
+        "url": "https://www.imf.org/en/publications/wp/issues/2016/12/31/mining-taxation-an-application-to-mali-23859",
+        "locator": "Description du corpus",
+        "verification_level": "corpus_description_only",
+        "note": "Résultat dépendant du modèle et des hypothèses du papier."
+      }
+    }
+  ],
+  "policy_recommendations": [
+    {
+      "recommendation_id": "R001",
+      "geography": "Cote d'Ivoire",
+      "thematic_axes": [
+        "impot_personnes_physiques"
+      ],
+      "recommendation_fr": "Simplifier l’impôt sur le revenu des personnes physiques et en renforcer la progressivité.",
+      "source": {
+        "document_id": "DOC041",
+        "url": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R002",
+      "geography": "Cote d'Ivoire",
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "recommendation_fr": "Réduire ou supprimer les exonérations fiscales discrétionnaires et statutaires.",
+      "source": {
+        "document_id": "DOC041",
+        "url": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R003",
+      "geography": "Cote d'Ivoire",
+      "thematic_axes": [
+        "fiscalite_fonciere_patrimoniale",
+        "accises"
+      ],
+      "recommendation_fr": "Mobiliser le potentiel non réalisé des taxes foncières et des accises.",
+      "source": {
+        "document_id": "DOC041",
+        "url": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R004",
+      "geography": "Cote d'Ivoire",
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "recommendation_fr": "Moderniser les administrations fiscale et douanière, approfondir la numérisation et renforcer la gestion des ressources humaines.",
+      "source": {
+        "document_id": "DOC041",
+        "url": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R005",
+      "geography": "Nigeria",
+      "thematic_axes": [
+        "tva",
+        "accises",
+        "depenses_fiscales"
+      ],
+      "recommendation_fr": "Mettre l’accent sur la TVA, les accises et la rationalisation des incitations fiscales dans un paquet cohérent de réformes.",
+      "source": {
+        "document_id": "DOC047",
+        "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2023/03/07/nigerias-tax-revenue-mobilization-lessons-from-successful-revenue-reform-episodes-nigeria-530628",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R006",
+      "geography": "Nigeria",
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "recommendation_fr": "Renforcer la segmentation des contribuables, l’automatisation, le dialogue social et l’engagement politique de haut niveau.",
+      "source": {
+        "document_id": "DOC047",
+        "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2023/03/07/nigerias-tax-revenue-mobilization-lessons-from-successful-revenue-reform-episodes-nigeria-530628",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R007",
+      "geography": "Rwanda",
+      "thematic_axes": [
+        "administration_fiscale",
+        "gouvernance_contrat_social"
+      ],
+      "recommendation_fr": "Privilégier une réforme complète et coordonnée plutôt que des mesures sélectives isolées.",
+      "source": {
+        "document_id": "DOC048",
+        "url": "https://www.imf.org/en/publications/cr/issues/2023/12/18/rwanda-selected-issues-542584",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R008",
+      "geography": "Rwanda",
+      "thematic_axes": [
+        "impot_personnes_physiques",
+        "gouvernance_contrat_social"
+      ],
+      "recommendation_fr": "Déplacer une plus grande part de la charge fiscale des ménages à faible revenu vers les groupes de revenu et de patrimoine supérieurs.",
+      "source": {
+        "document_id": "DOC048",
+        "url": "https://www.imf.org/en/publications/cr/issues/2023/12/18/rwanda-selected-issues-542584",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R009",
+      "geography": "Niger",
+      "thematic_axes": [
+        "tva",
+        "accises",
+        "fiscalite_fonciere_patrimoniale"
+      ],
+      "recommendation_fr": "Rationaliser les exonérations et taux réduits de TVA et réformer les accises et la fiscalité foncière.",
+      "source": {
+        "document_id": "DOC062",
+        "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/04/18/tax-potential-and-revenue-mobilization-in-niger-niger-566307",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R010",
+      "geography": "Mauritania",
+      "thematic_axes": [
+        "tva",
+        "impot_societes",
+        "impot_personnes_physiques"
+      ],
+      "recommendation_fr": "Réduire les exonérations de TVA, remplacer les exonérations d’IS par des incitations fondées sur les coûts et réformer l’IRPP.",
+      "source": {
+        "document_id": "DOC059",
+        "url": "https://www.imf.org/en/publications/cr/issues/2025/01/17/islamic-republic-of-mauritania-selected-issues-561063",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R011",
+      "geography": "Mauritania",
+      "thematic_axes": [
+        "administration_fiscale"
+      ],
+      "recommendation_fr": "Simplifier les procédures, gérer les arriérés et renforcer la conformité.",
+      "source": {
+        "document_id": "DOC059",
+        "url": "https://www.imf.org/en/publications/cr/issues/2025/01/17/islamic-republic-of-mauritania-selected-issues-561063",
+        "locator": "Résumé officiel",
+        "verification_level": "official_publication_summary"
+      }
+    },
+    {
+      "recommendation_id": "R012",
+      "geography": "Sub-Saharan Africa",
+      "thematic_axes": [
+        "depenses_fiscales"
+      ],
+      "recommendation_fr": "Publier des inventaires complets et des estimations régulières des dépenses fiscales.",
+      "source": {
+        "document_id": "DOC061",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/07/tax-expenditures-in-sub-saharan-africa-570060",
+        "locator": "PDF pp. 6 et 27",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "recommendation_id": "R013",
+      "geography": "Developing countries",
+      "thematic_axes": [
+        "administration_fiscale",
+        "depenses_fiscales",
+        "tva"
+      ],
+      "recommendation_fr": "Adopter une approche intégrée combinant politique fiscale, droit fiscal et administration; élargir les assiettes, améliorer les impôts indirects et rationaliser les incitations.",
+      "source": {
+        "document_id": "DOC056",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2025/10/08/building-tax-capacity-for-growth-and-development-evidence-based-analysis-for-mobilizing-570648",
+        "locator": "Résumé officiel et PDF",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "recommendation_id": "R014",
+      "geography": "Sub-Saharan Africa mining",
+      "thematic_axes": [
+        "extractif",
+        "fiscalite_internationale"
+      ],
+      "recommendation_fr": "Renforcer la protection de l’assiette minière contre le transfert de bénéfices, la dette intragroupe, les prix de transfert et l’usage abusif des conventions.",
+      "source": {
+        "document_id": "DOC040",
+        "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2021/09/27/tax-avoidance-in-sub-saharan-africas-mining-sector-464850",
+        "locator": "PDF, synthèse et analyse",
+        "verification_level": "pdf_page_verified"
+      }
+    },
+    {
+      "recommendation_id": "R015",
+      "geography": "Mali",
+      "thematic_axes": [
+        "extractif"
+      ],
+      "recommendation_fr": "Utiliser le cantonnement fiscal des projets, renforcer la transparence des contrats et employer des outils standardisés d’analyse économique.",
+      "source": {
+        "document_id": "DOC019",
+        "url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-mining-and-petroleum-taxation-diagnostic-assessment-43475",
+        "locator": "Description du corpus",
+        "verification_level": "corpus_description_only"
+      }
+    }
+  ],
+  "normalized_data_by_theme": {
+    "tva": {
+      "document_ids": [
+        "DOC010",
+        "DOC023",
+        "DOC028",
+        "DOC029",
+        "DOC031",
+        "DOC034",
+        "DOC036",
+        "DOC043",
+        "DOC047",
+        "DOC049",
+        "DOC059",
+        "DOC062",
+        "DOC063",
+        "DOC065"
+      ],
+      "finding_ids": [],
+      "recommendation_ids": [
+        "R005",
+        "R009",
+        "R010",
+        "R013"
+      ]
+    },
+    "impot_societes": {
+      "document_ids": [
+        "DOC017",
+        "DOC025",
+        "DOC027",
+        "DOC032",
+        "DOC038",
+        "DOC042",
+        "DOC046",
+        "DOC049",
+        "DOC050",
+        "DOC067"
+      ],
+      "finding_ids": [],
+      "recommendation_ids": [
+        "R010"
+      ]
+    },
+    "impot_personnes_physiques": {
+      "document_ids": [
+        "DOC003",
+        "DOC026",
+        "DOC045"
+      ],
+      "finding_ids": [],
+      "recommendation_ids": [
+        "R001",
+        "R008",
+        "R010"
+      ]
+    },
+    "fiscalite_fonciere_patrimoniale": {
+      "document_ids": [
+        "DOC041",
+        "DOC051",
+        "DOC062"
+      ],
+      "finding_ids": [],
+      "recommendation_ids": [
+        "R003",
+        "R009"
+      ]
+    },
+    "accises": {
+      "document_ids": [
+        "DOC034",
+        "DOC036",
+        "DOC041",
+        "DOC047",
+        "DOC062"
+      ],
+      "finding_ids": [],
+      "recommendation_ids": [
+        "R003",
+        "R005",
+        "R009"
+      ]
+    },
+    "depenses_fiscales": {
+      "document_ids": [
+        "DOC006",
+        "DOC007",
+        "DOC029",
+        "DOC034",
+        "DOC037",
+        "DOC041",
+        "DOC052",
+        "DOC060",
+        "DOC061",
+        "DOC067"
+      ],
+      "finding_ids": [
+        "F001",
+        "F002",
+        "F003"
+      ],
+      "recommendation_ids": [
+        "R002",
+        "R005",
+        "R012",
+        "R013"
+      ]
+    },
+    "administration_fiscale": {
+      "document_ids": [
+        "DOC001",
+        "DOC008",
+        "DOC010",
+        "DOC011",
+        "DOC012",
+        "DOC016",
+        "DOC026",
+        "DOC028",
+        "DOC029",
+        "DOC030",
+        "DOC031",
+        "DOC034",
+        "DOC035",
+        "DOC036",
+        "DOC037",
+        "DOC041",
+        "DOC043",
+        "DOC044",
+        "DOC047",
+        "DOC048",
+        "DOC050",
+        "DOC054",
+        "DOC055",
+        "DOC056",
+        "DOC057",
+        "DOC058",
+        "DOC059",
+        "DOC062",
+        "DOC064",
+        "DOC065",
+        "DOC068",
+        "DOC069"
+      ],
+      "finding_ids": [
+        "F010"
+      ],
+      "recommendation_ids": [
+        "R004",
+        "R006",
+        "R007",
+        "R011",
+        "R013"
+      ]
+    },
+    "informalite": {
+      "document_ids": [
+        "DOC002",
+        "DOC013",
+        "DOC045",
+        "DOC057",
+        "DOC065"
+      ],
+      "finding_ids": [],
+      "recommendation_ids": []
+    },
+    "extractif": {
+      "document_ids": [
+        "DOC002",
+        "DOC004",
+        "DOC005",
+        "DOC009",
+        "DOC015",
+        "DOC018",
+        "DOC019",
+        "DOC020",
+        "DOC021",
+        "DOC022",
+        "DOC023",
+        "DOC024",
+        "DOC032",
+        "DOC033",
+        "DOC035",
+        "DOC036",
+        "DOC037",
+        "DOC038",
+        "DOC039",
+        "DOC040",
+        "DOC046",
+        "DOC049",
+        "DOC050",
+        "DOC053"
+      ],
+      "finding_ids": [
+        "F012",
+        "F013",
+        "F022"
+      ],
+      "recommendation_ids": [
+        "R014",
+        "R015"
+      ]
+    },
+    "fiscalite_internationale": {
+      "document_ids": [
+        "DOC017",
+        "DOC025",
+        "DOC027",
+        "DOC032",
+        "DOC042"
+      ],
+      "finding_ids": [
+        "F014"
+      ],
+      "recommendation_ids": [
+        "R014"
+      ]
+    },
+    "gouvernance_contrat_social": {
+      "document_ids": [
+        "DOC003",
+        "DOC014",
+        "DOC024",
+        "DOC037",
+        "DOC065",
+        "DOC066",
+        "DOC069"
+      ],
+      "finding_ids": [
+        "F011"
+      ],
+      "recommendation_ids": [
+        "R007",
+        "R008"
+      ]
+    },
+    "mobilisation_recettes": {
+      "document_ids": [
+        "DOC003",
+        "DOC008",
+        "DOC010",
+        "DOC011",
+        "DOC012",
+        "DOC028",
+        "DOC029",
+        "DOC030",
+        "DOC031",
+        "DOC034",
+        "DOC035",
+        "DOC036",
+        "DOC041",
+        "DOC043",
+        "DOC047",
+        "DOC050",
+        "DOC053",
+        "DOC055",
+        "DOC057",
+        "DOC058",
+        "DOC059",
+        "DOC062",
+        "DOC064",
+        "DOC065",
+        "DOC068",
+        "DOC069"
+      ],
+      "finding_ids": [
+        "F009",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F020"
+      ],
+      "recommendation_ids": []
+    },
+    "capacite_fiscale": {
+      "document_ids": [
+        "DOC036",
+        "DOC043",
+        "DOC044",
+        "DOC056",
+        "DOC058",
+        "DOC062",
+        "DOC065"
+      ],
+      "finding_ids": [
+        "F004",
+        "F005",
+        "F006",
+        "F007",
+        "F008",
+        "F021"
+      ],
+      "recommendation_ids": []
+    }
+  },
+  "country_profiles": [
+    {
+      "country": "Cameroon",
+      "imf_publication_year": 2026,
+      "imf_document": "Strengthening Domestic Revenue Mobilization for Fiscal Resilience in Cameroon",
+      "imf_diagnostic_theme": "Tax capacity; VAT efficiency; tax expenditures; administration",
+      "oecd_tax_to_GDP_2018": 14.2,
+      "oecd_tax_to_GDP_2023": 14.4,
+      "change_2018_2023_percentage_points": 0.2,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/04/17/strengthening-domestic-revenue-mobilization-for-fiscal-resilience-in-cameroon-575441",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Congo, Dem. Rep.",
+      "imf_publication_year": 2024,
+      "imf_document": "Domestic Revenue Mobilization - DRC Selected Issues",
+      "imf_diagnostic_theme": "Broad tax gap; extractive CIT; administration; mining avoidance",
+      "oecd_tax_to_GDP_2018": 7.6,
+      "oecd_tax_to_GDP_2023": 10.9,
+      "change_2018_2023_percentage_points": 3.3,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2024/07/15/democratic-republic-of-the-congo-selected-issues-551897",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "imf_publication_year": 2022,
+      "imf_document": "Assessing the Scope for Domestic Revenue Mobilization",
+      "imf_diagnostic_theme": "Exemptions; indirect taxes; compliance; digitalization",
+      "oecd_tax_to_GDP_2018": 12.9,
+      "oecd_tax_to_GDP_2023": 14,
+      "change_2018_2023_percentage_points": 1.1,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2022/07/01/cte-divoire-selected-issues-520261",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Nigeria",
+      "imf_publication_year": 2023,
+      "imf_document": "Nigeria's Tax Revenue Mobilization: Lessons from Successful Revenue Reform Episodes",
+      "imf_diagnostic_theme": "VAT and excises; incentives; segmentation; automation",
+      "oecd_tax_to_GDP_2018": 6.4,
+      "oecd_tax_to_GDP_2023": 8.2,
+      "change_2018_2023_percentage_points": 1.8,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2023/03/07/nigerias-tax-revenue-mobilization-lessons-from-successful-revenue-reform-episodes-nigeria-530628",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Niger",
+      "imf_publication_year": 2025,
+      "imf_document": "Tax Potential and Revenue Mobilization in Niger",
+      "imf_diagnostic_theme": "Tax gap estimated at 3.4% of GDP in 2022; VAT; excises; property",
+      "oecd_tax_to_GDP_2018": 11.2,
+      "oecd_tax_to_GDP_2023": 8.2,
+      "change_2018_2023_percentage_points": -3.0,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/04/18/tax-potential-and-revenue-mobilization-in-niger-niger-566307",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Rwanda",
+      "imf_publication_year": 2023,
+      "imf_document": "Tax Reforms in Rwanda - Comprehensiveness Over Selectivity",
+      "imf_diagnostic_theme": "Comprehensive packages outperform selective measures",
+      "oecd_tax_to_GDP_2018": 16.9,
+      "oecd_tax_to_GDP_2023": 15.7,
+      "change_2018_2023_percentage_points": -1.2,
+      "position_vs_15_percent_2023": "At/above 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2023/12/18/rwanda-selected-issues-542584",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Mauritania",
+      "imf_publication_year": 2025,
+      "imf_document": "Improving Tax Revenue Mobilization in Mauritania",
+      "imf_diagnostic_theme": "Potential up to 3.4% of GDP at medium term; VAT; incentives; PIT",
+      "oecd_tax_to_GDP_2018": 14.7,
+      "oecd_tax_to_GDP_2023": 13.6,
+      "change_2018_2023_percentage_points": -1.1,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2025/01/17/islamic-republic-of-mauritania-selected-issues-561063",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Gambia",
+      "imf_publication_year": 2026,
+      "imf_document": "Strengthening Domestic Revenue Mobilization in The Gambia",
+      "imf_diagnostic_theme": "Tax potential; national DRM strategy; RAYT",
+      "oecd_tax_to_GDP_2018": 10.7,
+      "oecd_tax_to_GDP_2023": 10.2,
+      "change_2018_2023_percentage_points": -0.5,
+      "position_vs_15_percent_2023": "Below 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2026/07/14/the-gambia-selected-issues-577722",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Togo",
+      "imf_publication_year": 2024,
+      "imf_document": "Togo Selected Issues - Tax Revenue Mobilization",
+      "imf_diagnostic_theme": "Tax potential; tax expenditure; administration",
+      "oecd_tax_to_GDP_2018": 14.8,
+      "oecd_tax_to_GDP_2023": 18.4,
+      "change_2018_2023_percentage_points": 3.6,
+      "position_vs_15_percent_2023": "At/above 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2024/09/23/togo-selected-issues-555144",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Senegal",
+      "imf_publication_year": 2019,
+      "imf_document": "Case Studies in Tax Revenue Mobilization in Low-Income Countries",
+      "imf_diagnostic_theme": "Successful revenue episodes; political support; policy and administration",
+      "oecd_tax_to_GDP_2018": 17.3,
+      "oecd_tax_to_GDP_2023": 19.6,
+      "change_2018_2023_percentage_points": 2.3,
+      "position_vs_15_percent_2023": "At/above 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/wp/issues/2019/05/14/case-studies-in-tax-revenue-mobilization-in-low-income-countries-46719",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Mali",
+      "imf_publication_year": 2016,
+      "imf_document": "Tax Policy Diagnostic Assessment and Mining Taxation",
+      "imf_diagnostic_theme": "Mining rent; tax policy; FARI; exemptions",
+      "oecd_tax_to_GDP_2018": 13.8,
+      "oecd_tax_to_GDP_2023": 18.7,
+      "change_2018_2023_percentage_points": 4.9,
+      "position_vs_15_percent_2023": "At/above 15%",
+      "oecd_coverage": "Covered",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2016/12/31/mali-technical-assistance-report-tax-policy-diagnostic-assessment-43796",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html"
+    },
+    {
+      "country": "Benin",
+      "imf_publication_year": 2022,
+      "imf_document": "Tax Potential and Options for Domestic Revenue Mobilization",
+      "imf_diagnostic_theme": "Tax gap; VAT; income tax; tax expenditures; digitalization",
+      "oecd_tax_to_GDP_2018": null,
+      "oecd_tax_to_GDP_2023": null,
+      "change_2018_2023_percentage_points": null,
+      "position_vs_15_percent_2023": "N/A",
+      "oecd_coverage": "Not covered by OECD RSiA 2025",
+      "imf_source_url": "https://www.imf.org/en/publications/cr/issues/2022/07/25/benin-selected-issues-521310",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en.html"
+    },
+    {
+      "country": "Ethiopia",
+      "imf_publication_year": 2025,
+      "imf_document": "Ethiopia's Tax System: Structure, Performance, and Benchmarking",
+      "imf_diagnostic_theme": "VAT; PIT; CIT; trade taxes; stochastic frontier",
+      "oecd_tax_to_GDP_2018": null,
+      "oecd_tax_to_GDP_2023": null,
+      "change_2018_2023_percentage_points": null,
+      "position_vs_15_percent_2023": "N/A",
+      "oecd_coverage": "Not covered by OECD RSiA 2025",
+      "imf_source_url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2025/07/30/ethiopias-tax-system-structure-performance-and-benchmarking-569136",
+      "oecd_source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en.html"
+    }
+  ],
+  "comparative_context_oecd": {
+    "metadata": {
+      "dataset": "OECD/AUC/ATAF Revenue Statistics in Africa 2025",
+      "countries_covered": 38,
+      "period": "2010-2023",
+      "unit": "percent_of_GDP",
+      "missing_values_are_null_not_imputed": true,
+      "africa_average_tax_to_GDP": {
+        "2010": null,
+        "2011": null,
+        "2012": null,
+        "2013": 14.7,
+        "2014": 15.1,
+        "2015": 15.1,
+        "2016": 14.7,
+        "2017": 14.6,
+        "2018": 14.9,
+        "2019": 15.2,
+        "2020": 15,
+        "2021": 15.3,
+        "2022": 15.6,
+        "2023": 16.1
+      },
+      "comparability_warning_fr": "La couverture des recettes infranationales, des cotisations sociales et des impôts fonciers est incomplète ou partielle dans plusieurs pays."
+    },
+    "country_series": [
+      {
+        "country": "Botswana",
+        "iso3": "BWA",
+        "tax_to_GDP": {
+          "2010": 15.8,
+          "2011": 16,
+          "2012": 14.3,
+          "2013": 15.3,
+          "2014": 16,
+          "2015": 13.4,
+          "2016": 14.6,
+          "2017": 13.3,
+          "2018": 13.3,
+          "2019": 13.7,
+          "2020": 12.2,
+          "2021": 14.7,
+          "2022": 13.8,
+          "2023": 13.4
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 13.4,
+          "income_and_profits": 9.1,
+          "social_security": 0,
+          "payroll": 0,
+          "property": 0,
+          "goods_and_services": 4.3,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Burkina Faso",
+        "iso3": "BFA",
+        "tax_to_GDP": {
+          "2010": 14,
+          "2011": 13.4,
+          "2012": 14.9,
+          "2013": 15.9,
+          "2014": 14.3,
+          "2015": 14.6,
+          "2016": 15.3,
+          "2017": 16.2,
+          "2018": 16.8,
+          "2019": 17.2,
+          "2020": 16.2,
+          "2021": 16.8,
+          "2022": 18.6,
+          "2023": 19.5
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 19.5,
+          "income_and_profits": 5.7,
+          "social_security": 1.9,
+          "payroll": 0.1,
+          "property": 0.1,
+          "goods_and_services": 11.2,
+          "other": 0.4,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Cabo Verde",
+        "iso3": "CPV",
+        "tax_to_GDP": {
+          "2010": 17.3,
+          "2011": 18.4,
+          "2012": 16.6,
+          "2013": 16.8,
+          "2014": 15.9,
+          "2015": 17.6,
+          "2016": 17.5,
+          "2017": 18.2,
+          "2018": 19.6,
+          "2019": 18.7,
+          "2020": 18.7,
+          "2021": 17.1,
+          "2022": 18,
+          "2023": 18.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 18.7,
+          "income_and_profits": 4.6,
+          "social_security": 0,
+          "payroll": 0,
+          "property": 0.3,
+          "goods_and_services": 13.7,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Cameroon",
+        "iso3": "CMR",
+        "tax_to_GDP": {
+          "2010": 11.5,
+          "2011": 12.5,
+          "2012": 13,
+          "2013": 13.6,
+          "2014": 13.8,
+          "2015": 14.1,
+          "2016": 13.7,
+          "2017": 14,
+          "2018": 14.2,
+          "2019": 13.9,
+          "2020": 12.8,
+          "2021": 13.4,
+          "2022": 14.1,
+          "2023": 14.4
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 14.4,
+          "income_and_profits": 4.5,
+          "social_security": 1,
+          "payroll": 0.2,
+          "property": 0.1,
+          "goods_and_services": 8.3,
+          "other": 0.4,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Chad",
+        "iso3": "TCD",
+        "tax_to_GDP": {
+          "2010": 11.1,
+          "2011": 13.1,
+          "2012": 10.1,
+          "2013": 11.2,
+          "2014": 8.2,
+          "2015": 4.3,
+          "2016": 3.7,
+          "2017": 4.7,
+          "2018": 5.7,
+          "2019": 5.9,
+          "2020": 10.5,
+          "2021": 7,
+          "2022": 9.8,
+          "2023": 13.1
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 13.1,
+          "income_and_profits": 9.3,
+          "social_security": null,
+          "payroll": 0.1,
+          "property": 0.2,
+          "goods_and_services": 3.5,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Congo, Rep.",
+        "iso3": "COG",
+        "tax_to_GDP": {
+          "2010": 7.1,
+          "2011": 7.6,
+          "2012": 7,
+          "2013": 8.8,
+          "2014": 9.8,
+          "2015": 13.2,
+          "2016": 12.5,
+          "2017": 10.3,
+          "2018": 7.6,
+          "2019": 8.2,
+          "2020": 9.8,
+          "2021": 8.2,
+          "2022": 8.9,
+          "2023": 10.2
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 10.2,
+          "income_and_profits": 3.1,
+          "social_security": 0.7,
+          "payroll": 0.1,
+          "property": 0.3,
+          "goods_and_services": 6,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Congo, Dem. Rep.",
+        "iso3": "COD",
+        "tax_to_GDP": {
+          "2010": 8.3,
+          "2011": 8.7,
+          "2012": 10.6,
+          "2013": 9.6,
+          "2014": 9.1,
+          "2015": 9.4,
+          "2016": 8.3,
+          "2017": 6.7,
+          "2018": 7.6,
+          "2019": 7.6,
+          "2020": 7.2,
+          "2021": 9.3,
+          "2022": 13,
+          "2023": 10.9
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 10.9,
+          "income_and_profits": 5.2,
+          "social_security": 1,
+          "payroll": 0.3,
+          "property": 0.1,
+          "goods_and_services": 4.2,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "iso3": "CIV",
+        "tax_to_GDP": {
+          "2010": 11.9,
+          "2011": 11.1,
+          "2012": 12.8,
+          "2013": 12.7,
+          "2014": 12.2,
+          "2015": 12.6,
+          "2016": 13,
+          "2017": 13.1,
+          "2018": 12.9,
+          "2019": 12.8,
+          "2020": 13.1,
+          "2021": 13.7,
+          "2022": 13,
+          "2023": 14
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 14,
+          "income_and_profits": 2.2,
+          "social_security": 1.5,
+          "payroll": 1.5,
+          "property": 0.5,
+          "goods_and_services": 8.2,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Egypt",
+        "iso3": "EGY",
+        "tax_to_GDP": {
+          "2010": 15.5,
+          "2011": 15.5,
+          "2012": 13.9,
+          "2013": 15,
+          "2014": 14,
+          "2015": 13.9,
+          "2016": 15,
+          "2017": 14.9,
+          "2018": 15.5,
+          "2019": 15.2,
+          "2020": 13.6,
+          "2021": 14.1,
+          "2022": 14.2,
+          "2023": 13.6
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 13.6,
+          "income_and_profits": 6.2,
+          "social_security": 1.6,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 5.7,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "iso3": "GNQ",
+        "tax_to_GDP": {
+          "2010": 7.6,
+          "2011": 7,
+          "2012": 8.8,
+          "2013": 8.9,
+          "2014": 9.8,
+          "2015": 12,
+          "2016": 7.1,
+          "2017": 6.6,
+          "2018": 6.5,
+          "2019": 9.8,
+          "2020": 8.6,
+          "2021": 6,
+          "2022": 7,
+          "2023": 11.5
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 11.5,
+          "income_and_profits": 9.6,
+          "social_security": 0.6,
+          "payroll": 0,
+          "property": 0,
+          "goods_and_services": 1.3,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Eswatini",
+        "iso3": "SWZ",
+        "tax_to_GDP": {
+          "2010": 13.9,
+          "2011": 13.9,
+          "2012": 12.8,
+          "2013": 13.7,
+          "2014": 14.9,
+          "2015": 15,
+          "2016": 16.1,
+          "2017": 17,
+          "2018": 17.4,
+          "2019": 18.3,
+          "2020": 17.8,
+          "2021": 17.4,
+          "2022": 17.6,
+          "2023": 17.2
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 17.2,
+          "income_and_profits": 8.1,
+          "social_security": 2,
+          "payroll": 0,
+          "property": 0.5,
+          "goods_and_services": 6.5,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Gabon",
+        "iso3": "GAB",
+        "tax_to_GDP": {
+          "2010": null,
+          "2011": null,
+          "2012": null,
+          "2013": null,
+          "2014": 16.5,
+          "2015": 15.3,
+          "2016": 12.3,
+          "2017": 10.9,
+          "2018": 10.4,
+          "2019": 12.1,
+          "2020": 12.8,
+          "2021": 10.7,
+          "2022": 11.8,
+          "2023": 16.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 16.7,
+          "income_and_profits": 8.3,
+          "social_security": 1.4,
+          "payroll": 0.1,
+          "property": 0.2,
+          "goods_and_services": 6.6,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Gambia",
+        "iso3": "GMB",
+        "tax_to_GDP": {
+          "2010": 8.5,
+          "2011": 9.5,
+          "2012": 9.8,
+          "2013": 9.8,
+          "2014": 11.3,
+          "2015": 12.3,
+          "2016": 11.6,
+          "2017": 10.7,
+          "2018": 10.7,
+          "2019": 11.6,
+          "2020": 12,
+          "2021": 11.5,
+          "2022": 9.9,
+          "2023": 10.2
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 10.2,
+          "income_and_profits": 2.9,
+          "social_security": null,
+          "payroll": 0,
+          "property": 0,
+          "goods_and_services": 7.1,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Ghana",
+        "iso3": "GHA",
+        "tax_to_GDP": {
+          "2010": 10.4,
+          "2011": 11.9,
+          "2012": 12.2,
+          "2013": 11.4,
+          "2014": 12,
+          "2015": 13.2,
+          "2016": 13.8,
+          "2017": 14.1,
+          "2018": 14.4,
+          "2019": 13.9,
+          "2020": 13.8,
+          "2021": 14.7,
+          "2022": 14.5,
+          "2023": 14.5
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 14.5,
+          "income_and_profits": 5.6,
+          "social_security": 0.7,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 8.1,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Guinea",
+        "iso3": "GIN",
+        "tax_to_GDP": {
+          "2010": 9.7,
+          "2011": 11.6,
+          "2012": 14.5,
+          "2013": 13,
+          "2014": 12.8,
+          "2015": 12.8,
+          "2016": 13.9,
+          "2017": 12.7,
+          "2018": 12.4,
+          "2019": 12.7,
+          "2020": 12.1,
+          "2021": 12,
+          "2022": 12.3,
+          "2023": 11.8
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 11.8,
+          "income_and_profits": 2.6,
+          "social_security": null,
+          "payroll": 0.2,
+          "property": 0.1,
+          "goods_and_services": 8.9,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Kenya",
+        "iso3": "KEN",
+        "tax_to_GDP": {
+          "2010": 15.9,
+          "2011": 16.7,
+          "2012": 16.2,
+          "2013": 16.3,
+          "2014": 17.4,
+          "2015": 17,
+          "2016": 17.2,
+          "2017": 17.5,
+          "2018": 16.8,
+          "2019": 16.6,
+          "2020": 16,
+          "2021": 15.3,
+          "2022": 16.5,
+          "2023": 15.8
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 15.8,
+          "income_and_profits": 6.7,
+          "social_security": 0.6,
+          "payroll": 0,
+          "property": 0,
+          "goods_and_services": 8.4,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Lesotho",
+        "iso3": "LSO",
+        "tax_to_GDP": {
+          "2010": 19.3,
+          "2011": 19.7,
+          "2012": 21.2,
+          "2013": 18.6,
+          "2014": 18.9,
+          "2015": 19.3,
+          "2016": 19.3,
+          "2017": 19.3,
+          "2018": 21.4,
+          "2019": 21.1,
+          "2020": 19.8,
+          "2021": 21.6,
+          "2022": 21.8,
+          "2023": 22.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 22.7,
+          "income_and_profits": 11.4,
+          "social_security": 0,
+          "payroll": 0,
+          "property": null,
+          "goods_and_services": 11.2,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Liberia",
+        "iso3": "LBR",
+        "tax_to_GDP": {
+          "2010": null,
+          "2011": null,
+          "2012": 14.5,
+          "2013": 14.6,
+          "2014": 11.7,
+          "2015": 11.8,
+          "2016": 11.6,
+          "2017": 11.8,
+          "2018": 12.1,
+          "2019": 11.8,
+          "2020": 13.3,
+          "2021": 14.2,
+          "2022": 12.5,
+          "2023": 11.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 11.7,
+          "income_and_profits": 5.2,
+          "social_security": null,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 6.3,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Madagascar",
+        "iso3": "MDG",
+        "tax_to_GDP": {
+          "2010": 8.5,
+          "2011": 9,
+          "2012": 8.7,
+          "2013": 9.1,
+          "2014": 8.8,
+          "2015": 9.3,
+          "2016": 9.6,
+          "2017": 10.4,
+          "2018": 10.9,
+          "2019": 11.1,
+          "2020": 10.1,
+          "2021": 10.8,
+          "2022": 11.4,
+          "2023": 12.3
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 12.3,
+          "income_and_profits": 3.1,
+          "social_security": 0.7,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 8.2,
+          "other": 0.2,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Malawi",
+        "iso3": "MWI",
+        "tax_to_GDP": {
+          "2010": 11.3,
+          "2011": 11.6,
+          "2012": 10.3,
+          "2013": 11.5,
+          "2014": 12.7,
+          "2015": 12,
+          "2016": 12,
+          "2017": 13.2,
+          "2018": 12.8,
+          "2019": 12.5,
+          "2020": 12.6,
+          "2021": 12.4,
+          "2022": 12.4,
+          "2023": 13.2
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 13.2,
+          "income_and_profits": 6.5,
+          "social_security": 0,
+          "payroll": 0,
+          "property": null,
+          "goods_and_services": 6.7,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Mali",
+        "iso3": "MLI",
+        "tax_to_GDP": {
+          "2010": 14.1,
+          "2011": 14,
+          "2012": 14.2,
+          "2013": 14.5,
+          "2014": 14.2,
+          "2015": 15.6,
+          "2016": 16.9,
+          "2017": 17.3,
+          "2018": 13.8,
+          "2019": 18.4,
+          "2020": 19,
+          "2021": 20.4,
+          "2022": 17.2,
+          "2023": 18.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 18.7,
+          "income_and_profits": 5.1,
+          "social_security": 4.1,
+          "payroll": 0.2,
+          "property": 0.3,
+          "goods_and_services": 8.2,
+          "other": 0.8,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Mauritania",
+        "iso3": "MRT",
+        "tax_to_GDP": {
+          "2010": 9.8,
+          "2011": 10.1,
+          "2012": 13,
+          "2013": 12.8,
+          "2014": 14.8,
+          "2015": 14.4,
+          "2016": 13.7,
+          "2017": 14.2,
+          "2018": 14.7,
+          "2019": 13.4,
+          "2020": 12.4,
+          "2021": 14.2,
+          "2022": 14.7,
+          "2023": 13.6
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 13.6,
+          "income_and_profits": 4.6,
+          "social_security": 0.6,
+          "payroll": 0,
+          "property": 0,
+          "goods_and_services": 8.3,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Mauritius",
+        "iso3": "MUS",
+        "tax_to_GDP": {
+          "2010": 18.7,
+          "2011": 18.7,
+          "2012": 19.3,
+          "2013": 18.9,
+          "2014": 18.9,
+          "2015": 18.8,
+          "2016": 19,
+          "2017": 19.2,
+          "2018": 19.7,
+          "2019": 20.4,
+          "2020": 20.2,
+          "2021": 20,
+          "2022": 22.3,
+          "2023": 23.1
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 23.1,
+          "income_and_profits": 7.1,
+          "social_security": 1.5,
+          "payroll": 0.2,
+          "property": 1.2,
+          "goods_and_services": 13.2,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Morocco",
+        "iso3": "MAR",
+        "tax_to_GDP": {
+          "2010": 25.5,
+          "2011": 26.2,
+          "2012": 27.3,
+          "2013": 26,
+          "2014": 25.7,
+          "2015": 24.6,
+          "2016": 25.4,
+          "2017": 25.9,
+          "2018": 26.2,
+          "2019": 26.4,
+          "2020": 27.3,
+          "2021": 27.2,
+          "2022": 29.9,
+          "2023": 28.5
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 28.5,
+          "income_and_profits": 8.6,
+          "social_security": 6.5,
+          "payroll": 0,
+          "property": 1.5,
+          "goods_and_services": 11.8,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Mozambique",
+        "iso3": "MOZ",
+        "tax_to_GDP": {
+          "2010": 29.4,
+          "2011": 21.2,
+          "2012": 25.8,
+          "2013": null,
+          "2014": 34.3,
+          "2015": 31.7,
+          "2016": 25,
+          "2017": 19.4,
+          "2018": 21.2,
+          "2019": 21,
+          "2020": 20.7,
+          "2021": 22.7,
+          "2022": 21.3,
+          "2023": 21.3
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 21.3,
+          "income_and_profits": 11.2,
+          "social_security": 0.2,
+          "payroll": 0,
+          "property": 0.3,
+          "goods_and_services": 9.4,
+          "other": 0.2,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Namibia",
+        "iso3": "NAM",
+        "tax_to_GDP": {
+          "2010": 18.6,
+          "2011": 21.5,
+          "2012": 19.9,
+          "2013": 20,
+          "2014": 21.1,
+          "2015": 21.5,
+          "2016": 21.1,
+          "2017": 20.4,
+          "2018": 19.6,
+          "2019": 20.4,
+          "2020": 18.7,
+          "2021": 19.7,
+          "2022": 19.9,
+          "2023": 22.1
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 22.1,
+          "income_and_profits": 13.4,
+          "social_security": 0.3,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 8.2,
+          "other": 0.1,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Niger",
+        "iso3": "NER",
+        "tax_to_GDP": {
+          "2010": 9.4,
+          "2011": 13.1,
+          "2012": 10.4,
+          "2013": 12.4,
+          "2014": 12.1,
+          "2015": 12.3,
+          "2016": 10.2,
+          "2017": 9.5,
+          "2018": 11.2,
+          "2019": 10.4,
+          "2020": 9.8,
+          "2021": 10.5,
+          "2022": 9.6,
+          "2023": 8.2
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 8.2,
+          "income_and_profits": 2.6,
+          "social_security": 0.5,
+          "payroll": 0.1,
+          "property": 0.2,
+          "goods_and_services": 4.3,
+          "other": 0.6,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Nigeria",
+        "iso3": "NGA",
+        "tax_to_GDP": {
+          "2010": 7.3,
+          "2011": 9.7,
+          "2012": 9.4,
+          "2013": 8.3,
+          "2014": 7.7,
+          "2015": 6.1,
+          "2016": 5.3,
+          "2017": 5.7,
+          "2018": 6.4,
+          "2019": 6,
+          "2020": 5.5,
+          "2021": 6.7,
+          "2022": 7.9,
+          "2023": 8.2
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 8.2,
+          "income_and_profits": 4.2,
+          "social_security": 0.5,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 2.9,
+          "other": 0.5,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Rwanda",
+        "iso3": "RWA",
+        "tax_to_GDP": {
+          "2010": 12.3,
+          "2011": 13,
+          "2012": 13.7,
+          "2013": 15,
+          "2014": 15.4,
+          "2015": 16.2,
+          "2016": 16.3,
+          "2017": 16.2,
+          "2018": 16.9,
+          "2019": 17.3,
+          "2020": 17.1,
+          "2021": 17,
+          "2022": 16.5,
+          "2023": 15.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 15.7,
+          "income_and_profits": 6.8,
+          "social_security": 0.9,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 7.8,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Senegal",
+        "iso3": "SEN",
+        "tax_to_GDP": {
+          "2010": 15.9,
+          "2011": 16,
+          "2012": 16.1,
+          "2013": 15.4,
+          "2014": 16.2,
+          "2015": 16.4,
+          "2016": 17,
+          "2017": 16.7,
+          "2018": 17.3,
+          "2019": 18.8,
+          "2020": 17.7,
+          "2021": 18.4,
+          "2022": 18.6,
+          "2023": 19.6
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 19.6,
+          "income_and_profits": 6.1,
+          "social_security": 0.9,
+          "payroll": 0.2,
+          "property": 0.3,
+          "goods_and_services": 11.8,
+          "other": 0.3,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Seychelles",
+        "iso3": "SYC",
+        "tax_to_GDP": {
+          "2010": 30.7,
+          "2011": 32.8,
+          "2012": 31.2,
+          "2013": 29.3,
+          "2014": 29.6,
+          "2015": 28.7,
+          "2016": 29.3,
+          "2017": 29.4,
+          "2018": 30.1,
+          "2019": 29,
+          "2020": 27.8,
+          "2021": 28.4,
+          "2022": 27.8,
+          "2023": 29.1
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 29.1,
+          "income_and_profits": 9.1,
+          "social_security": 2.5,
+          "payroll": 0,
+          "property": 0.3,
+          "goods_and_services": 17.2,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Sierra Leone",
+        "iso3": "SLE",
+        "tax_to_GDP": {
+          "2010": 5.6,
+          "2011": 5.6,
+          "2012": 6.4,
+          "2013": 6.1,
+          "2014": 6.7,
+          "2015": 6.2,
+          "2016": 6.8,
+          "2017": 6.9,
+          "2018": 8,
+          "2019": 8.3,
+          "2020": 7.6,
+          "2021": 7.9,
+          "2022": 6.6,
+          "2023": 6.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 6.7,
+          "income_and_profits": 2.9,
+          "social_security": 0.7,
+          "payroll": 0,
+          "property": null,
+          "goods_and_services": 3,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Somalia",
+        "iso3": "SOM",
+        "tax_to_GDP": {
+          "2010": null,
+          "2011": null,
+          "2012": null,
+          "2013": 1,
+          "2014": 1,
+          "2015": 1.1,
+          "2016": 1,
+          "2017": 1.2,
+          "2018": 1.6,
+          "2019": 2.1,
+          "2020": 2.5,
+          "2021": 2.5,
+          "2022": 2.6,
+          "2023": 2.9
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 2.9,
+          "income_and_profits": 0.3,
+          "social_security": null,
+          "payroll": 0,
+          "property": 0,
+          "goods_and_services": 2.5,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "tax_to_GDP": {
+          "2010": 23.1,
+          "2011": 24,
+          "2012": 24.4,
+          "2013": 24.8,
+          "2014": 25.4,
+          "2015": 26.4,
+          "2016": 26,
+          "2017": 26,
+          "2018": 26.4,
+          "2019": 26,
+          "2020": 25,
+          "2021": 26.5,
+          "2022": 27.2,
+          "2023": 26.5
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 26.5,
+          "income_and_profits": 14,
+          "social_security": 0.3,
+          "payroll": 0.3,
+          "property": 1.2,
+          "goods_and_services": 10.7,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Togo",
+        "iso3": "TGO",
+        "tax_to_GDP": {
+          "2010": 10.7,
+          "2011": 11.6,
+          "2012": 12,
+          "2013": 14,
+          "2014": 14.9,
+          "2015": 15.7,
+          "2016": 16.3,
+          "2017": 15.8,
+          "2018": 14.8,
+          "2019": 15.5,
+          "2020": 15.7,
+          "2021": 17.2,
+          "2022": 17.4,
+          "2023": 18.4
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 18.4,
+          "income_and_profits": 4.1,
+          "social_security": null,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 14,
+          "other": 0.3,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Tunisia",
+        "iso3": "TUN",
+        "tax_to_GDP": {
+          "2010": 25.9,
+          "2011": 27.7,
+          "2012": 27.7,
+          "2013": 28.3,
+          "2014": 29.3,
+          "2015": 28.5,
+          "2016": 27.9,
+          "2017": 29.2,
+          "2018": 29.9,
+          "2019": 32.1,
+          "2020": 32.5,
+          "2021": 32.4,
+          "2022": 34.8,
+          "2023": 34
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 34,
+          "income_and_profits": 11.1,
+          "social_security": 9.2,
+          "payroll": 0.4,
+          "property": 0.3,
+          "goods_and_services": 12.3,
+          "other": 0.6,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Uganda",
+        "iso3": "UGA",
+        "tax_to_GDP": {
+          "2010": 8.3,
+          "2011": 8.4,
+          "2012": 8.5,
+          "2013": 9,
+          "2014": 9.3,
+          "2015": 10.4,
+          "2016": 11,
+          "2017": 11.4,
+          "2018": 11.7,
+          "2019": 12.1,
+          "2020": 11.4,
+          "2021": 12.5,
+          "2022": 12.5,
+          "2023": 13
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 13,
+          "income_and_profits": 4.9,
+          "social_security": null,
+          "payroll": 0,
+          "property": 0.1,
+          "goods_and_services": 7.9,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      },
+      {
+        "country": "Zambia",
+        "iso3": "ZMB",
+        "tax_to_GDP": {
+          "2010": null,
+          "2011": null,
+          "2012": 14.7,
+          "2013": 14.1,
+          "2014": 15.3,
+          "2015": 14.3,
+          "2016": 13,
+          "2017": 14.9,
+          "2018": 16.2,
+          "2019": 16.2,
+          "2020": 15.7,
+          "2021": 16.1,
+          "2022": 16.2,
+          "2023": 16.7
+        },
+        "tax_structure_2023": {
+          "total_tax_to_GDP": 16.7,
+          "income_and_profits": 8,
+          "social_security": null,
+          "payroll": 0.1,
+          "property": 0.1,
+          "goods_and_services": 8.5,
+          "other": 0,
+          "unit": "percent_of_GDP"
+        },
+        "source_url": "https://www.oecd.org/en/publications/revenue-statistics-in-africa-2025_8d3bf3af-en/full-report/tax-levels-and-tax-structures-1990-2023_5a494fbf.html",
+        "provenance": "Local workbook compiled from OECD/AUC/ATAF Revenue Statistics in Africa 2025"
+      }
+    ]
+  },
+  "recognized_tables": [
+    {
+      "document_id": "DOC064",
+      "locator": "PDF pp. 15-16",
+      "content": "Régressions quantiles: gouvernance et assistance technique FMI",
+      "status": "reviewed"
+    },
+    {
+      "document_id": "DOC056",
+      "locator": "PDF pp. 14-16",
+      "content": "Distributions des ratios fiscaux, potentiels et écarts fiscaux",
+      "status": "reviewed"
+    },
+    {
+      "document_id": "DOC061",
+      "locator": "PDF p. 27",
+      "content": "Estimations nationales des dépenses fiscales en pourcentage du PIB",
+      "status": "reviewed"
+    }
+  ],
+  "missing_periods": {
+    "oecd_tax_to_GDP": [
+      {
+        "country": "Gabon",
+        "iso3": "GAB",
+        "missing_years": [
+          "2010",
+          "2011",
+          "2012",
+          "2013"
+        ]
+      },
+      {
+        "country": "Liberia",
+        "iso3": "LBR",
+        "missing_years": [
+          "2010",
+          "2011"
+        ]
+      },
+      {
+        "country": "Mozambique",
+        "iso3": "MOZ",
+        "missing_years": [
+          "2013"
+        ]
+      },
+      {
+        "country": "Somalia",
+        "iso3": "SOM",
+        "missing_years": [
+          "2010",
+          "2011",
+          "2012"
+        ]
+      },
+      {
+        "country": "Zambia",
+        "iso3": "ZMB",
+        "missing_years": [
+          "2010",
+          "2011"
+        ]
+      }
+    ],
+    "imf_document_extraction": "La plupart des 69 publications n’exposent pas une série temporelle homogène; les périodes sont conservées au niveau de chaque constat."
+  },
+  "validation_checks": {
+    "document_count_expected": 69,
+    "document_count_observed": 69,
+    "duplicate_official_urls_after_merge": [],
+    "unique_finding_ids": true,
+    "unique_recommendation_ids": true,
+    "findings_missing_source_locator": [],
+    "findings_by_verification_level": {
+      "pdf_page_verified": 12,
+      "official_publication_summary": 5,
+      "corpus_description_only": 5
+    },
+    "all_document_sources_resolved": true,
+    "status": "passed"
+  },
+  "data_dictionary": {
+    "document_id": "Identifiant unique de publication dans ce JSON.",
+    "file": "URL officielle de la publication ou du PDF; aucun chemin PDF local lorsque local_pdf_available vaut false.",
+    "pages": "Nombre de pages lorsqu’il a été contrôlé; not_profiled sinon.",
+    "thematic_axes": "Axes analytiques normalisés; une publication peut relever de plusieurs axes.",
+    "finding_id": "Identifiant unique d’un constat quantitatif.",
+    "value": "Nombre ou fourchette [minimum, maximum] dans l’unité indiquée.",
+    "unit": "Unité non ambiguë, notamment percent_of_GDP ou percentage_points_of_GDP.",
+    "period": "Année ou horizon auquel se rapporte la valeur; null lorsque non précisé.",
+    "verification_level": "Niveau de contrôle de la source, défini dans methodology.verification_levels.",
+    "locator": "Page, tableau, section ou résumé officiel permettant de retrouver l’élément.",
+    "tax_to_GDP": "Recettes fiscales en pourcentage du PIB selon la définition OECD; les cotisations sociales obligatoires au gouvernement y sont traitées comme impôts."
+  }
+}
